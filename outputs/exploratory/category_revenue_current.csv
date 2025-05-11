@@ -1,0 +1,2274 @@
+,product_category,dates,revenue
+1,Accessories,11/10/2024,178.72
+2,Accessories,11/11/2024,532.32
+3,Accessories,11/12/2024,815.91
+4,Accessories,11/13/2024,536.7
+5,Accessories,11/14/2024,448.03
+6,Accessories,11/15/2024,421.44
+7,Accessories,11/16/2024,549.99
+8,Accessories,11/17/2024,623.85
+9,Accessories,11/18/2024,674.06
+10,Accessories,11/19/2024,338.13
+11,Accessories,11/20/2024,547.1
+12,Accessories,11/21/2024,337.81
+13,Accessories,11/22/2024,292.39
+14,Accessories,11/23/2024,354.31
+15,Accessories,11/24/2024,477.27
+16,Accessories,11/25/2024,243.31
+17,Accessories,11/26/2024,1029.03
+18,Accessories,11/27/2024,574.41
+19,Accessories,11/28/2024,327.43
+20,Accessories,11/29/2024,425.37
+21,Accessories,11/30/2024,397.91
+22,Accessories,12/1/2024,293.89
+23,Accessories,12/2/2024,191.24
+24,Accessories,12/3/2024,276.18
+25,Accessories,12/4/2024,164.76
+26,Accessories,12/5/2024,323.48
+27,Accessories,12/6/2024,221.87
+28,Accessories,12/7/2024,491.92
+29,Accessories,12/8/2024,792.22
+30,Accessories,12/9/2024,938.6
+31,Accessories,12/10/2024,268.68
+32,Accessories,12/11/2024,507.58
+33,Accessories,12/12/2024,276.13
+34,Accessories,12/13/2024,480.48
+35,Accessories,12/14/2024,448.44
+36,Accessories,12/15/2024,735.49
+37,Accessories,12/16/2024,477.52
+38,Accessories,12/17/2024,556.68
+39,Accessories,12/18/2024,379.29
+40,Accessories,12/19/2024,469.2
+41,Accessories,12/20/2024,536.68
+42,Accessories,12/21/2024,483.63
+43,Accessories,12/22/2024,538.1
+44,Accessories,12/23/2024,873
+45,Accessories,12/24/2024,520.97
+46,Accessories,12/25/2024,400.98
+47,Accessories,12/26/2024,90.64
+48,Accessories,12/27/2024,362.89
+49,Accessories,12/28/2024,203.5
+50,Accessories,12/29/2024,456.31
+51,Accessories,12/30/2024,444.58
+52,Accessories,12/31/2024,368.99
+53,Accessories,1/1/2025,240.26
+54,Accessories,1/2/2025,466.85
+55,Accessories,1/3/2025,334.55
+56,Accessories,1/4/2025,435.42
+57,Accessories,1/5/2025,346.41
+58,Accessories,1/6/2025,546.01
+59,Accessories,1/7/2025,645.51
+60,Accessories,1/8/2025,500.25
+61,Accessories,1/9/2025,491.08
+62,Accessories,1/10/2025,539.39
+63,Accessories,1/11/2025,259.3
+64,Accessories,1/12/2025,463.13
+65,Accessories,1/13/2025,721.73
+66,Accessories,1/14/2025,520.03
+67,Accessories,1/15/2025,679.2
+68,Accessories,1/16/2025,287.81
+69,Accessories,1/17/2025,629.58
+70,Accessories,1/18/2025,692.01
+71,Accessories,1/19/2025,646.49
+72,Accessories,1/20/2025,716.7
+73,Accessories,1/21/2025,509.34
+74,Accessories,1/22/2025,491.86
+75,Accessories,1/23/2025,522.37
+76,Accessories,1/24/2025,850.7
+77,Accessories,1/25/2025,352.91
+78,Accessories,1/26/2025,604.81
+79,Accessories,1/27/2025,369.51
+80,Accessories,1/28/2025,495.21
+81,Accessories,1/29/2025,1177.68
+82,Accessories,1/30/2025,366.98
+83,Accessories,1/31/2025,570.25
+84,Accessories,2/1/2025,654.89
+85,Accessories,2/2/2025,570.12
+86,Accessories,2/3/2025,1146.35
+87,Accessories,2/4/2025,450.42
+88,Accessories,2/5/2025,521.24
+89,Accessories,2/6/2025,945.86
+90,Accessories,2/7/2025,426.02
+91,Accessories,2/8/2025,974.05
+92,Accessories,2/9/2025,754.84
+93,Accessories,2/10/2025,822.68
+94,Active,11/10/2024,316.78
+95,Active,11/11/2024,234.49
+96,Active,11/12/2024,497.68
+97,Active,11/13/2024,298.98
+98,Active,11/14/2024,908.01
+99,Active,11/15/2024,298.41
+100,Active,11/16/2024,333.72
+101,Active,11/17/2024,160.48
+102,Active,11/18/2024,266.88
+103,Active,11/19/2024,1163.86
+104,Active,11/20/2024,379.2
+105,Active,11/21/2024,280.92
+106,Active,11/22/2024,482.72
+107,Active,11/23/2024,440.98
+108,Active,11/24/2024,403.74
+109,Active,11/25/2024,534.76
+110,Active,11/26/2024,366.22
+111,Active,11/27/2024,438.62
+112,Active,11/28/2024,164.54
+113,Active,11/29/2024,1540.55
+114,Active,11/30/2024,265.85
+115,Active,12/1/2024,377.92
+116,Active,12/2/2024,408.87
+117,Active,12/3/2024,1288.25
+118,Active,12/4/2024,1376.04
+119,Active,12/5/2024,1565.95
+120,Active,12/6/2024,381.54
+121,Active,12/7/2024,589.92
+122,Active,12/8/2024,451.39
+123,Active,12/9/2024,864.79
+124,Active,12/10/2024,573.88
+125,Active,12/11/2024,177.69
+126,Active,12/12/2024,202.14
+127,Active,12/13/2024,484.05
+128,Active,12/14/2024,406.37
+129,Active,12/15/2024,926.5
+130,Active,12/16/2024,1347.71
+131,Active,12/17/2024,600.92
+132,Active,12/18/2024,218.9
+133,Active,12/19/2024,666.93
+134,Active,12/20/2024,282.04
+135,Active,12/21/2024,652.87
+136,Active,12/22/2024,2194.54
+137,Active,12/23/2024,239.76
+138,Active,12/24/2024,231.41
+139,Active,12/25/2024,456.18
+140,Active,12/26/2024,452.96
+141,Active,12/27/2024,484.11
+142,Active,12/28/2024,385.19
+143,Active,12/29/2024,481.45
+144,Active,12/30/2024,436.4
+145,Active,12/31/2024,444
+146,Active,1/1/2025,495.1
+147,Active,1/2/2025,526.43
+148,Active,1/3/2025,493.96
+149,Active,1/4/2025,463.28
+150,Active,1/5/2025,509.89
+151,Active,1/6/2025,422.27
+152,Active,1/7/2025,351.93
+153,Active,1/8/2025,305.37
+154,Active,1/9/2025,237.28
+155,Active,1/10/2025,445.19
+156,Active,1/11/2025,334.94
+157,Active,1/12/2025,749.52
+158,Active,1/13/2025,424.55
+159,Active,1/14/2025,1522.88
+160,Active,1/15/2025,463.03
+161,Active,1/16/2025,1219.78
+162,Active,1/17/2025,569.67
+163,Active,1/18/2025,397.17
+164,Active,1/19/2025,687.33
+165,Active,1/20/2025,595.95
+166,Active,1/21/2025,231.84
+167,Active,1/22/2025,287.52
+168,Active,1/23/2025,614.48
+169,Active,1/24/2025,878.25
+170,Active,1/25/2025,311.89
+171,Active,1/26/2025,419.01
+172,Active,1/27/2025,717.63
+173,Active,1/28/2025,204.44
+174,Active,1/29/2025,796.63
+175,Active,1/30/2025,294.1
+176,Active,1/31/2025,700.96
+177,Active,2/1/2025,677.79
+178,Active,2/2/2025,597.71
+179,Active,2/3/2025,329.59
+180,Active,2/4/2025,676.4
+181,Active,2/5/2025,402.51
+182,Active,2/6/2025,765.7
+183,Active,2/7/2025,639.69
+184,Active,2/8/2025,321.17
+185,Active,2/9/2025,1374.39
+186,Active,2/10/2025,483.87
+187,Blazers & Jackets,11/10/2024,133.41
+188,Blazers & Jackets,11/11/2024,318.22
+189,Blazers & Jackets,11/12/2024,715
+190,Blazers & Jackets,11/13/2024,12.38
+191,Blazers & Jackets,11/14/2024,485.27
+192,Blazers & Jackets,11/15/2024,572.36
+193,Blazers & Jackets,11/17/2024,76.29
+194,Blazers & Jackets,11/18/2024,204.45
+195,Blazers & Jackets,11/19/2024,154.98
+196,Blazers & Jackets,11/20/2024,101.19
+197,Blazers & Jackets,11/21/2024,406.99
+198,Blazers & Jackets,11/22/2024,179.71
+199,Blazers & Jackets,11/23/2024,267.1
+200,Blazers & Jackets,11/24/2024,504.67
+201,Blazers & Jackets,11/25/2024,96.92
+202,Blazers & Jackets,11/26/2024,235.56
+203,Blazers & Jackets,11/27/2024,648.98
+204,Blazers & Jackets,11/28/2024,77.99
+205,Blazers & Jackets,11/29/2024,781.55
+206,Blazers & Jackets,11/30/2024,530.82
+207,Blazers & Jackets,12/1/2024,99.2
+208,Blazers & Jackets,12/2/2024,293.1
+209,Blazers & Jackets,12/3/2024,494.99
+210,Blazers & Jackets,12/4/2024,441.26
+211,Blazers & Jackets,12/5/2024,817.27
+212,Blazers & Jackets,12/6/2024,107.11
+213,Blazers & Jackets,12/7/2024,170.92
+214,Blazers & Jackets,12/8/2024,240.37
+215,Blazers & Jackets,12/9/2024,293.82
+216,Blazers & Jackets,12/10/2024,147
+217,Blazers & Jackets,12/11/2024,303.61
+218,Blazers & Jackets,12/12/2024,438.86
+219,Blazers & Jackets,12/13/2024,230.7
+220,Blazers & Jackets,12/14/2024,618.07
+221,Blazers & Jackets,12/15/2024,56
+222,Blazers & Jackets,12/16/2024,264.81
+223,Blazers & Jackets,12/17/2024,373.21
+224,Blazers & Jackets,12/18/2024,641.69
+225,Blazers & Jackets,12/19/2024,393.07
+226,Blazers & Jackets,12/20/2024,395.1
+227,Blazers & Jackets,12/21/2024,312.22
+228,Blazers & Jackets,12/22/2024,664.33
+229,Blazers & Jackets,12/23/2024,531.94
+230,Blazers & Jackets,12/24/2024,430.87
+231,Blazers & Jackets,12/25/2024,265.18
+232,Blazers & Jackets,12/26/2024,494.8
+233,Blazers & Jackets,12/27/2024,428.08
+234,Blazers & Jackets,12/28/2024,166.06
+235,Blazers & Jackets,12/29/2024,712.36
+236,Blazers & Jackets,12/30/2024,170.28
+237,Blazers & Jackets,12/31/2024,343.99
+238,Blazers & Jackets,1/1/2025,620.97
+239,Blazers & Jackets,1/2/2025,566.64
+240,Blazers & Jackets,1/3/2025,665.95
+241,Blazers & Jackets,1/4/2025,77.98
+242,Blazers & Jackets,1/5/2025,231.88
+243,Blazers & Jackets,1/6/2025,573.85
+244,Blazers & Jackets,1/7/2025,146.16
+245,Blazers & Jackets,1/8/2025,397.99
+246,Blazers & Jackets,1/9/2025,304.14
+247,Blazers & Jackets,1/10/2025,336.48
+248,Blazers & Jackets,1/11/2025,325.76
+249,Blazers & Jackets,1/12/2025,304.9
+250,Blazers & Jackets,1/13/2025,229.98
+251,Blazers & Jackets,1/14/2025,255.83
+252,Blazers & Jackets,1/15/2025,312.91
+253,Blazers & Jackets,1/16/2025,510.22
+254,Blazers & Jackets,1/17/2025,449.79
+255,Blazers & Jackets,1/18/2025,365.85
+256,Blazers & Jackets,1/19/2025,125.37
+257,Blazers & Jackets,1/20/2025,687.06
+258,Blazers & Jackets,1/21/2025,397.59
+259,Blazers & Jackets,1/22/2025,401.26
+260,Blazers & Jackets,1/23/2025,194.74
+261,Blazers & Jackets,1/24/2025,157.9
+262,Blazers & Jackets,1/25/2025,441.86
+263,Blazers & Jackets,1/26/2025,517.04
+264,Blazers & Jackets,1/27/2025,385.49
+265,Blazers & Jackets,1/28/2025,307.99
+266,Blazers & Jackets,1/29/2025,559.02
+267,Blazers & Jackets,1/30/2025,484.64
+268,Blazers & Jackets,1/31/2025,753.6
+269,Blazers & Jackets,2/1/2025,223.48
+270,Blazers & Jackets,2/2/2025,405.33
+271,Blazers & Jackets,2/3/2025,242.66
+272,Blazers & Jackets,2/4/2025,192.69
+273,Blazers & Jackets,2/5/2025,593.71
+274,Blazers & Jackets,2/6/2025,234.4
+275,Blazers & Jackets,2/7/2025,505.92
+276,Blazers & Jackets,2/8/2025,203.07
+277,Blazers & Jackets,2/9/2025,467.9
+278,Blazers & Jackets,2/10/2025,387.25
+279,Clothing Sets,11/12/2024,95.85
+280,Clothing Sets,11/19/2024,22.99
+281,Clothing Sets,11/20/2024,69
+282,Clothing Sets,11/22/2024,129
+283,Clothing Sets,11/25/2024,95.85
+284,Clothing Sets,11/28/2024,168.99
+285,Clothing Sets,12/2/2024,57.99
+286,Clothing Sets,12/3/2024,32.97
+287,Clothing Sets,12/4/2024,57.99
+288,Clothing Sets,12/8/2024,169
+289,Clothing Sets,12/9/2024,88
+290,Clothing Sets,12/19/2024,75
+291,Clothing Sets,12/27/2024,69
+292,Clothing Sets,1/11/2025,55.99
+293,Clothing Sets,1/15/2025,59
+294,Clothing Sets,1/18/2025,57.99
+295,Clothing Sets,1/20/2025,157.98
+296,Clothing Sets,1/22/2025,39.99
+297,Clothing Sets,1/27/2025,62.99
+298,Clothing Sets,1/31/2025,59
+299,Clothing Sets,2/2/2025,99.99
+300,Clothing Sets,2/3/2025,62.99
+301,Clothing Sets,2/4/2025,88
+302,Clothing Sets,2/10/2025,59
+303,Dresses,11/10/2024,235.66
+304,Dresses,11/11/2024,375.5
+305,Dresses,11/12/2024,627.05
+306,Dresses,11/13/2024,255.5
+307,Dresses,11/14/2024,316.34
+308,Dresses,11/15/2024,648.45
+309,Dresses,11/16/2024,9.32
+310,Dresses,11/17/2024,245.84
+311,Dresses,11/18/2024,432.44
+312,Dresses,11/19/2024,686.95
+313,Dresses,11/20/2024,282.94
+314,Dresses,11/21/2024,186.54
+315,Dresses,11/22/2024,352.17
+316,Dresses,11/23/2024,614.73
+317,Dresses,11/24/2024,557.14
+318,Dresses,11/25/2024,538.64
+319,Dresses,11/26/2024,771.59
+320,Dresses,11/27/2024,174.87
+321,Dresses,11/28/2024,846.98
+322,Dresses,11/29/2024,125.58
+323,Dresses,11/30/2024,367.64
+324,Dresses,12/1/2024,104.75
+325,Dresses,12/2/2024,505.78
+326,Dresses,12/3/2024,513.75
+327,Dresses,12/4/2024,587.02
+328,Dresses,12/5/2024,643.91
+329,Dresses,12/6/2024,552.98
+330,Dresses,12/7/2024,508.58
+331,Dresses,12/8/2024,555.11
+332,Dresses,12/9/2024,362.42
+333,Dresses,12/10/2024,406.09
+334,Dresses,12/11/2024,202.11
+335,Dresses,12/12/2024,251.6
+336,Dresses,12/13/2024,628.12
+337,Dresses,12/14/2024,296.41
+338,Dresses,12/15/2024,173.85
+339,Dresses,12/16/2024,899.92
+340,Dresses,12/17/2024,382.42
+341,Dresses,12/18/2024,277.08
+342,Dresses,12/19/2024,1198.07
+343,Dresses,12/20/2024,740.7
+344,Dresses,12/21/2024,834.96
+345,Dresses,12/22/2024,863.45
+346,Dresses,12/23/2024,780.38
+347,Dresses,12/24/2024,244.98
+348,Dresses,12/25/2024,272.95
+349,Dresses,12/26/2024,645.65
+350,Dresses,12/27/2024,514.53
+351,Dresses,12/29/2024,456.99
+352,Dresses,12/30/2024,300.12
+353,Dresses,12/31/2024,236.79
+354,Dresses,1/1/2025,801.55
+355,Dresses,1/2/2025,277.94
+356,Dresses,1/3/2025,1096.57
+357,Dresses,1/4/2025,498.68
+358,Dresses,1/5/2025,806.35
+359,Dresses,1/6/2025,255.84
+360,Dresses,1/7/2025,610.25
+361,Dresses,1/8/2025,407.86
+362,Dresses,1/9/2025,266.92
+363,Dresses,1/10/2025,155
+364,Dresses,1/11/2025,671.93
+365,Dresses,1/12/2025,476.91
+366,Dresses,1/13/2025,1336.24
+367,Dresses,1/14/2025,309.48
+368,Dresses,1/15/2025,245.96
+369,Dresses,1/16/2025,493.93
+370,Dresses,1/17/2025,152.58
+371,Dresses,1/18/2025,837.5
+372,Dresses,1/19/2025,728.51
+373,Dresses,1/20/2025,357.94
+374,Dresses,1/21/2025,604.45
+375,Dresses,1/22/2025,580.41
+376,Dresses,1/23/2025,750.15
+377,Dresses,1/24/2025,539.52
+378,Dresses,1/25/2025,796.78
+379,Dresses,1/26/2025,1172.1
+380,Dresses,1/27/2025,831.28
+381,Dresses,1/28/2025,1167.84
+382,Dresses,1/29/2025,1031.11
+383,Dresses,1/30/2025,910.84
+384,Dresses,1/31/2025,229.93
+385,Dresses,2/1/2025,765.84
+386,Dresses,2/2/2025,563.31
+387,Dresses,2/3/2025,449.57
+388,Dresses,2/4/2025,949.35
+389,Dresses,2/5/2025,219.66
+390,Dresses,2/6/2025,143.75
+391,Dresses,2/7/2025,935.27
+392,Dresses,2/8/2025,481.99
+393,Dresses,2/9/2025,522.81
+394,Dresses,2/10/2025,204.28
+395,Fashion Hoodies & Sweatshirts,11/10/2024,510.38
+396,Fashion Hoodies & Sweatshirts,11/11/2024,448.96
+397,Fashion Hoodies & Sweatshirts,11/12/2024,407.93
+398,Fashion Hoodies & Sweatshirts,11/13/2024,669.5
+399,Fashion Hoodies & Sweatshirts,11/14/2024,626.58
+400,Fashion Hoodies & Sweatshirts,11/15/2024,1054.78
+401,Fashion Hoodies & Sweatshirts,11/16/2024,596.21
+402,Fashion Hoodies & Sweatshirts,11/17/2024,673.89
+403,Fashion Hoodies & Sweatshirts,11/18/2024,246.87
+404,Fashion Hoodies & Sweatshirts,11/19/2024,413.89
+405,Fashion Hoodies & Sweatshirts,11/20/2024,880.79
+406,Fashion Hoodies & Sweatshirts,11/21/2024,1826.02
+407,Fashion Hoodies & Sweatshirts,11/22/2024,689.21
+408,Fashion Hoodies & Sweatshirts,11/23/2024,406.4
+409,Fashion Hoodies & Sweatshirts,11/24/2024,764.32
+410,Fashion Hoodies & Sweatshirts,11/25/2024,811.21
+411,Fashion Hoodies & Sweatshirts,11/26/2024,818.02
+412,Fashion Hoodies & Sweatshirts,11/27/2024,591.8
+413,Fashion Hoodies & Sweatshirts,11/28/2024,550.37
+414,Fashion Hoodies & Sweatshirts,11/29/2024,482.03
+415,Fashion Hoodies & Sweatshirts,11/30/2024,657.92
+416,Fashion Hoodies & Sweatshirts,12/1/2024,775.15
+417,Fashion Hoodies & Sweatshirts,12/2/2024,736.54
+418,Fashion Hoodies & Sweatshirts,12/3/2024,690.65
+419,Fashion Hoodies & Sweatshirts,12/4/2024,833.87
+420,Fashion Hoodies & Sweatshirts,12/5/2024,763.14
+421,Fashion Hoodies & Sweatshirts,12/6/2024,1175.38
+422,Fashion Hoodies & Sweatshirts,12/7/2024,722.14
+423,Fashion Hoodies & Sweatshirts,12/8/2024,690.31
+424,Fashion Hoodies & Sweatshirts,12/9/2024,516.44
+425,Fashion Hoodies & Sweatshirts,12/10/2024,480.73
+426,Fashion Hoodies & Sweatshirts,12/11/2024,852.7
+427,Fashion Hoodies & Sweatshirts,12/12/2024,825.71
+428,Fashion Hoodies & Sweatshirts,12/13/2024,538.35
+429,Fashion Hoodies & Sweatshirts,12/14/2024,845.38
+430,Fashion Hoodies & Sweatshirts,12/15/2024,520.35
+431,Fashion Hoodies & Sweatshirts,12/16/2024,626.91
+432,Fashion Hoodies & Sweatshirts,12/17/2024,835.91
+433,Fashion Hoodies & Sweatshirts,12/18/2024,290.18
+434,Fashion Hoodies & Sweatshirts,12/19/2024,1021.34
+435,Fashion Hoodies & Sweatshirts,12/20/2024,743.46
+436,Fashion Hoodies & Sweatshirts,12/21/2024,819.58
+437,Fashion Hoodies & Sweatshirts,12/22/2024,893.84
+438,Fashion Hoodies & Sweatshirts,12/23/2024,1001.34
+439,Fashion Hoodies & Sweatshirts,12/24/2024,862.5
+440,Fashion Hoodies & Sweatshirts,12/25/2024,847.43
+441,Fashion Hoodies & Sweatshirts,12/26/2024,596.99
+442,Fashion Hoodies & Sweatshirts,12/27/2024,886
+443,Fashion Hoodies & Sweatshirts,12/28/2024,854.92
+444,Fashion Hoodies & Sweatshirts,12/29/2024,584.88
+445,Fashion Hoodies & Sweatshirts,12/30/2024,471.69
+446,Fashion Hoodies & Sweatshirts,12/31/2024,503.8
+447,Fashion Hoodies & Sweatshirts,1/1/2025,977.13
+448,Fashion Hoodies & Sweatshirts,1/2/2025,1142.46
+449,Fashion Hoodies & Sweatshirts,1/3/2025,677.88
+450,Fashion Hoodies & Sweatshirts,1/4/2025,1077.82
+451,Fashion Hoodies & Sweatshirts,1/5/2025,1079.7
+452,Fashion Hoodies & Sweatshirts,1/6/2025,776.28
+453,Fashion Hoodies & Sweatshirts,1/7/2025,775.39
+454,Fashion Hoodies & Sweatshirts,1/8/2025,566.74
+455,Fashion Hoodies & Sweatshirts,1/9/2025,616.78
+456,Fashion Hoodies & Sweatshirts,1/10/2025,748.81
+457,Fashion Hoodies & Sweatshirts,1/11/2025,988.1
+458,Fashion Hoodies & Sweatshirts,1/12/2025,167.99
+459,Fashion Hoodies & Sweatshirts,1/13/2025,739.15
+460,Fashion Hoodies & Sweatshirts,1/14/2025,939.46
+461,Fashion Hoodies & Sweatshirts,1/15/2025,676.86
+462,Fashion Hoodies & Sweatshirts,1/16/2025,386.55
+463,Fashion Hoodies & Sweatshirts,1/17/2025,893.65
+464,Fashion Hoodies & Sweatshirts,1/18/2025,805.63
+465,Fashion Hoodies & Sweatshirts,1/19/2025,603.79
+466,Fashion Hoodies & Sweatshirts,1/20/2025,698.95
+467,Fashion Hoodies & Sweatshirts,1/21/2025,980.66
+468,Fashion Hoodies & Sweatshirts,1/22/2025,866.43
+469,Fashion Hoodies & Sweatshirts,1/23/2025,1074.6
+470,Fashion Hoodies & Sweatshirts,1/24/2025,703.84
+471,Fashion Hoodies & Sweatshirts,1/25/2025,798.92
+472,Fashion Hoodies & Sweatshirts,1/26/2025,804.18
+473,Fashion Hoodies & Sweatshirts,1/27/2025,713.59
+474,Fashion Hoodies & Sweatshirts,1/28/2025,857.63
+475,Fashion Hoodies & Sweatshirts,1/29/2025,985.36
+476,Fashion Hoodies & Sweatshirts,1/30/2025,1070.25
+477,Fashion Hoodies & Sweatshirts,1/31/2025,626.61
+478,Fashion Hoodies & Sweatshirts,2/1/2025,861.54
+479,Fashion Hoodies & Sweatshirts,2/2/2025,573.69
+480,Fashion Hoodies & Sweatshirts,2/3/2025,671.73
+481,Fashion Hoodies & Sweatshirts,2/4/2025,1095.94
+482,Fashion Hoodies & Sweatshirts,2/5/2025,562.33
+483,Fashion Hoodies & Sweatshirts,2/6/2025,834.48
+484,Fashion Hoodies & Sweatshirts,2/7/2025,1115.05
+485,Fashion Hoodies & Sweatshirts,2/8/2025,661.47
+486,Fashion Hoodies & Sweatshirts,2/9/2025,574.46
+487,Fashion Hoodies & Sweatshirts,2/10/2025,947.87
+488,Intimates,11/10/2024,266.43
+489,Intimates,11/11/2024,397.92
+490,Intimates,11/12/2024,375.72
+491,Intimates,11/13/2024,185.37
+492,Intimates,11/14/2024,553.9
+493,Intimates,11/15/2024,536.95
+494,Intimates,11/16/2024,662.43
+495,Intimates,11/17/2024,565.72
+496,Intimates,11/18/2024,452.39
+497,Intimates,11/19/2024,650.73
+498,Intimates,11/20/2024,308.21
+499,Intimates,11/21/2024,494.13
+500,Intimates,11/22/2024,583.77
+501,Intimates,11/23/2024,523.19
+502,Intimates,11/24/2024,307.28
+503,Intimates,11/25/2024,374.79
+504,Intimates,11/26/2024,648.76
+505,Intimates,11/27/2024,459.72
+506,Intimates,11/28/2024,395.56
+507,Intimates,11/29/2024,392.87
+508,Intimates,11/30/2024,190.77
+509,Intimates,12/1/2024,412.35
+510,Intimates,12/2/2024,446.11
+511,Intimates,12/3/2024,858.99
+512,Intimates,12/4/2024,543.56
+513,Intimates,12/5/2024,443.21
+514,Intimates,12/6/2024,226.52
+515,Intimates,12/7/2024,575.65
+516,Intimates,12/8/2024,769.54
+517,Intimates,12/9/2024,367.49
+518,Intimates,12/10/2024,265.33
+519,Intimates,12/11/2024,531.7
+520,Intimates,12/12/2024,650.45
+521,Intimates,12/13/2024,465.73
+522,Intimates,12/14/2024,575.74
+523,Intimates,12/15/2024,641.01
+524,Intimates,12/16/2024,330.34
+525,Intimates,12/17/2024,373.38
+526,Intimates,12/18/2024,835.72
+527,Intimates,12/19/2024,566.1
+528,Intimates,12/20/2024,786.24
+529,Intimates,12/21/2024,704.58
+530,Intimates,12/22/2024,330.91
+531,Intimates,12/23/2024,547.56
+532,Intimates,12/24/2024,596.06
+533,Intimates,12/25/2024,554.41
+534,Intimates,12/26/2024,743.26
+535,Intimates,12/27/2024,481.1
+536,Intimates,12/28/2024,616.78
+537,Intimates,12/29/2024,322.4
+538,Intimates,12/30/2024,450.08
+539,Intimates,12/31/2024,216.9
+540,Intimates,1/1/2025,620.01
+541,Intimates,1/2/2025,552.93
+542,Intimates,1/3/2025,554.97
+543,Intimates,1/4/2025,435.32
+544,Intimates,1/5/2025,693.08
+545,Intimates,1/6/2025,662.78
+546,Intimates,1/7/2025,965.92
+547,Intimates,1/8/2025,398.29
+548,Intimates,1/9/2025,461.39
+549,Intimates,1/10/2025,532.2
+550,Intimates,1/11/2025,607.04
+551,Intimates,1/12/2025,709.77
+552,Intimates,1/13/2025,464.34
+553,Intimates,1/14/2025,876.14
+554,Intimates,1/15/2025,747.28
+555,Intimates,1/16/2025,577.03
+556,Intimates,1/17/2025,906.35
+557,Intimates,1/18/2025,501.74
+558,Intimates,1/19/2025,586.01
+559,Intimates,1/20/2025,656.4
+560,Intimates,1/21/2025,509.86
+561,Intimates,1/22/2025,576.37
+562,Intimates,1/23/2025,520.78
+563,Intimates,1/24/2025,552.76
+564,Intimates,1/25/2025,532.74
+565,Intimates,1/26/2025,463.54
+566,Intimates,1/27/2025,490.29
+567,Intimates,1/28/2025,604.67
+568,Intimates,1/29/2025,618.23
+569,Intimates,1/30/2025,539.18
+570,Intimates,1/31/2025,474.37
+571,Intimates,2/1/2025,707.52
+572,Intimates,2/2/2025,361.84
+573,Intimates,2/3/2025,305.1
+574,Intimates,2/4/2025,705.45
+575,Intimates,2/5/2025,353.58
+576,Intimates,2/6/2025,556.37
+577,Intimates,2/7/2025,575.49
+578,Intimates,2/8/2025,378.11
+579,Intimates,2/9/2025,507.87
+580,Intimates,2/10/2025,756.68
+581,Jeans,11/10/2024,1361.41
+582,Jeans,11/11/2024,1142.51
+583,Jeans,11/12/2024,801.48
+584,Jeans,11/13/2024,615.9
+585,Jeans,11/14/2024,2066.91
+586,Jeans,11/15/2024,1744.21
+587,Jeans,11/16/2024,1349.14
+588,Jeans,11/17/2024,1297.35
+589,Jeans,11/18/2024,1095.87
+590,Jeans,11/19/2024,1408.32
+591,Jeans,11/20/2024,1496.91
+592,Jeans,11/21/2024,2749
+593,Jeans,11/22/2024,1041.02
+594,Jeans,11/23/2024,1721.19
+595,Jeans,11/24/2024,1358.84
+596,Jeans,11/25/2024,1558.64
+597,Jeans,11/26/2024,1861.23
+598,Jeans,11/27/2024,2426.52
+599,Jeans,11/28/2024,1144.49
+600,Jeans,11/29/2024,856.59
+601,Jeans,11/30/2024,1015.72
+602,Jeans,12/1/2024,1812.14
+603,Jeans,12/2/2024,2368.21
+604,Jeans,12/3/2024,2046.49
+605,Jeans,12/4/2024,1739.72
+606,Jeans,12/5/2024,1755.29
+607,Jeans,12/6/2024,1536.11
+608,Jeans,12/7/2024,1875.87
+609,Jeans,12/8/2024,497.95
+610,Jeans,12/9/2024,1328.36
+611,Jeans,12/10/2024,1797.33
+612,Jeans,12/11/2024,700.5
+613,Jeans,12/12/2024,1826.04
+614,Jeans,12/13/2024,1073.49
+615,Jeans,12/14/2024,665.97
+616,Jeans,12/15/2024,702.47
+617,Jeans,12/16/2024,1634.31
+618,Jeans,12/17/2024,373.34
+619,Jeans,12/18/2024,1292.3
+620,Jeans,12/19/2024,1469.05
+621,Jeans,12/20/2024,1391.38
+622,Jeans,12/21/2024,1678.85
+623,Jeans,12/22/2024,1123.67
+624,Jeans,12/23/2024,1871.8
+625,Jeans,12/24/2024,1260.28
+626,Jeans,12/25/2024,1219.06
+627,Jeans,12/26/2024,1031.47
+628,Jeans,12/27/2024,1841.37
+629,Jeans,12/28/2024,1623.65
+630,Jeans,12/29/2024,1797.75
+631,Jeans,12/30/2024,2035.54
+632,Jeans,12/31/2024,908.35
+633,Jeans,1/1/2025,1432.24
+634,Jeans,1/2/2025,1827.27
+635,Jeans,1/3/2025,2216.82
+636,Jeans,1/4/2025,1255.73
+637,Jeans,1/5/2025,1254.15
+638,Jeans,1/6/2025,1869.64
+639,Jeans,1/7/2025,2115.98
+640,Jeans,1/8/2025,1110.17
+641,Jeans,1/9/2025,1402.5
+642,Jeans,1/10/2025,1051.06
+643,Jeans,1/11/2025,1201.45
+644,Jeans,1/12/2025,2288.87
+645,Jeans,1/13/2025,1661.34
+646,Jeans,1/14/2025,1898.93
+647,Jeans,1/15/2025,1509.62
+648,Jeans,1/16/2025,801.62
+649,Jeans,1/17/2025,2130.19
+650,Jeans,1/18/2025,2035.16
+651,Jeans,1/19/2025,1117.96
+652,Jeans,1/20/2025,1559.96
+653,Jeans,1/21/2025,1781.23
+654,Jeans,1/22/2025,2039.83
+655,Jeans,1/23/2025,942.56
+656,Jeans,1/24/2025,1803.33
+657,Jeans,1/25/2025,2070.29
+658,Jeans,1/26/2025,1432.61
+659,Jeans,1/27/2025,1241.48
+660,Jeans,1/28/2025,2583.79
+661,Jeans,1/29/2025,1151.72
+662,Jeans,1/30/2025,2118.83
+663,Jeans,1/31/2025,1685.21
+664,Jeans,2/1/2025,1554.98
+665,Jeans,2/2/2025,2202.85
+666,Jeans,2/3/2025,1374.11
+667,Jeans,2/4/2025,1636.46
+668,Jeans,2/5/2025,2882.57
+669,Jeans,2/6/2025,2141.66
+670,Jeans,2/7/2025,1445.73
+671,Jeans,2/8/2025,2206.57
+672,Jeans,2/9/2025,1516.81
+673,Jeans,2/10/2025,887.92
+674,Jumpsuits & Rompers,11/12/2024,27.95
+675,Jumpsuits & Rompers,11/13/2024,76.42
+676,Jumpsuits & Rompers,11/14/2024,25.5
+677,Jumpsuits & Rompers,11/15/2024,11.24
+678,Jumpsuits & Rompers,11/17/2024,11.09
+679,Jumpsuits & Rompers,11/18/2024,17.31
+680,Jumpsuits & Rompers,11/21/2024,45.13
+681,Jumpsuits & Rompers,11/22/2024,42.63
+682,Jumpsuits & Rompers,11/24/2024,24.08
+683,Jumpsuits & Rompers,11/26/2024,10.41
+684,Jumpsuits & Rompers,11/27/2024,146.99
+685,Jumpsuits & Rompers,11/28/2024,27.95
+686,Jumpsuits & Rompers,11/29/2024,13.25
+687,Jumpsuits & Rompers,11/30/2024,94.71
+688,Jumpsuits & Rompers,12/3/2024,38.24
+689,Jumpsuits & Rompers,12/4/2024,217.61
+690,Jumpsuits & Rompers,12/5/2024,68.53
+691,Jumpsuits & Rompers,12/6/2024,91.43
+692,Jumpsuits & Rompers,12/7/2024,425.36
+693,Jumpsuits & Rompers,12/8/2024,10.89
+694,Jumpsuits & Rompers,12/9/2024,13.25
+695,Jumpsuits & Rompers,12/11/2024,214.58
+696,Jumpsuits & Rompers,12/12/2024,36.43
+697,Jumpsuits & Rompers,12/15/2024,11.18
+698,Jumpsuits & Rompers,12/16/2024,173.42
+699,Jumpsuits & Rompers,12/17/2024,167.2
+700,Jumpsuits & Rompers,12/18/2024,12.99
+701,Jumpsuits & Rompers,12/21/2024,29.99
+702,Jumpsuits & Rompers,12/22/2024,127.43
+703,Jumpsuits & Rompers,12/23/2024,27.95
+704,Jumpsuits & Rompers,12/24/2024,70.84
+705,Jumpsuits & Rompers,12/30/2024,266.94
+706,Jumpsuits & Rompers,1/1/2025,39.95
+707,Jumpsuits & Rompers,1/3/2025,39.5
+708,Jumpsuits & Rompers,1/4/2025,15.84
+709,Jumpsuits & Rompers,1/5/2025,79.17
+710,Jumpsuits & Rompers,1/6/2025,66.93
+711,Jumpsuits & Rompers,1/7/2025,23
+712,Jumpsuits & Rompers,1/8/2025,102.94
+713,Jumpsuits & Rompers,1/9/2025,12.06
+714,Jumpsuits & Rompers,1/12/2025,131.19
+715,Jumpsuits & Rompers,1/13/2025,210.99
+716,Jumpsuits & Rompers,1/14/2025,163.67
+717,Jumpsuits & Rompers,1/15/2025,82.78
+718,Jumpsuits & Rompers,1/16/2025,269.49
+719,Jumpsuits & Rompers,1/17/2025,38.81
+720,Jumpsuits & Rompers,1/18/2025,9.2
+721,Jumpsuits & Rompers,1/23/2025,56.88
+722,Jumpsuits & Rompers,1/25/2025,32.79
+723,Jumpsuits & Rompers,1/26/2025,87.99
+724,Jumpsuits & Rompers,1/27/2025,11.24
+725,Jumpsuits & Rompers,1/28/2025,39.5
+726,Jumpsuits & Rompers,1/29/2025,27.57
+727,Jumpsuits & Rompers,1/30/2025,165
+728,Jumpsuits & Rompers,1/31/2025,74.5
+729,Jumpsuits & Rompers,2/2/2025,90
+730,Jumpsuits & Rompers,2/3/2025,24.99
+731,Jumpsuits & Rompers,2/4/2025,13.57
+732,Jumpsuits & Rompers,2/5/2025,102.86
+733,Jumpsuits & Rompers,2/6/2025,10.21
+734,Jumpsuits & Rompers,2/8/2025,228
+735,Leggings,11/11/2024,93.99
+736,Leggings,11/12/2024,162.1
+737,Leggings,11/13/2024,21.99
+738,Leggings,11/14/2024,66.5
+739,Leggings,11/15/2024,93.75
+740,Leggings,11/16/2024,32.94
+741,Leggings,11/17/2024,23.33
+742,Leggings,11/18/2024,132.06
+743,Leggings,11/19/2024,146.14
+744,Leggings,11/20/2024,169.39
+745,Leggings,11/21/2024,237.47
+746,Leggings,11/22/2024,63.85
+747,Leggings,11/23/2024,135.79
+748,Leggings,11/24/2024,78.38
+749,Leggings,11/25/2024,45.89
+750,Leggings,11/26/2024,13.9
+751,Leggings,11/28/2024,124.39
+752,Leggings,11/29/2024,177.47
+753,Leggings,11/30/2024,124.85
+754,Leggings,12/1/2024,95.99
+755,Leggings,12/2/2024,55.87
+756,Leggings,12/3/2024,185.81
+757,Leggings,12/4/2024,81.33
+758,Leggings,12/5/2024,198.99
+759,Leggings,12/6/2024,79.29
+760,Leggings,12/7/2024,25.45
+761,Leggings,12/8/2024,9.95
+762,Leggings,12/9/2024,81.99
+763,Leggings,12/10/2024,79.92
+764,Leggings,12/11/2024,37.8
+765,Leggings,12/12/2024,290.83
+766,Leggings,12/14/2024,134.89
+767,Leggings,12/15/2024,273.46
+768,Leggings,12/16/2024,43.97
+769,Leggings,12/17/2024,71.96
+770,Leggings,12/18/2024,168.33
+771,Leggings,12/19/2024,121.88
+772,Leggings,12/20/2024,61.23
+773,Leggings,12/21/2024,59.96
+774,Leggings,12/22/2024,92.93
+775,Leggings,12/23/2024,37.16
+776,Leggings,12/24/2024,136.98
+777,Leggings,12/25/2024,31.9
+778,Leggings,12/26/2024,41.98
+779,Leggings,12/27/2024,64.02
+780,Leggings,12/28/2024,229.93
+781,Leggings,12/29/2024,208.97
+782,Leggings,12/30/2024,29.93
+783,Leggings,12/31/2024,149.92
+784,Leggings,1/1/2025,64.94
+785,Leggings,1/2/2025,107.36
+786,Leggings,1/3/2025,98.87
+787,Leggings,1/4/2025,61.92
+788,Leggings,1/5/2025,113.59
+789,Leggings,1/6/2025,68.09
+790,Leggings,1/7/2025,90.89
+791,Leggings,1/8/2025,54.46
+792,Leggings,1/9/2025,153.98
+793,Leggings,1/10/2025,105.28
+794,Leggings,1/11/2025,146.72
+795,Leggings,1/12/2025,113.64
+796,Leggings,1/13/2025,51.95
+797,Leggings,1/14/2025,84.13
+798,Leggings,1/15/2025,135.86
+799,Leggings,1/16/2025,242.92
+800,Leggings,1/17/2025,187.14
+801,Leggings,1/18/2025,52.99
+802,Leggings,1/19/2025,23.97
+803,Leggings,1/20/2025,80.11
+804,Leggings,1/21/2025,41.07
+805,Leggings,1/22/2025,56.12
+806,Leggings,1/23/2025,139
+807,Leggings,1/24/2025,79.47
+808,Leggings,1/25/2025,53.32
+809,Leggings,1/26/2025,60.22
+810,Leggings,1/27/2025,212.48
+811,Leggings,1/28/2025,166.9
+812,Leggings,1/29/2025,62.01
+813,Leggings,1/30/2025,1256.45
+814,Leggings,1/31/2025,179.39
+815,Leggings,2/1/2025,335.45
+816,Leggings,2/2/2025,145.93
+817,Leggings,2/3/2025,49.9
+818,Leggings,2/4/2025,22.94
+819,Leggings,2/5/2025,125.99
+820,Leggings,2/6/2025,85.89
+821,Leggings,2/7/2025,102.15
+822,Leggings,2/8/2025,8.45
+823,Leggings,2/9/2025,84.9
+824,Leggings,2/10/2025,41.15
+825,Maternity,11/10/2024,337.43
+826,Maternity,11/11/2024,273.91
+827,Maternity,11/12/2024,320.94
+828,Maternity,11/13/2024,74.95
+829,Maternity,11/14/2024,515.51
+830,Maternity,11/15/2024,436.01
+831,Maternity,11/16/2024,382.83
+832,Maternity,11/17/2024,213.87
+833,Maternity,11/18/2024,297.98
+834,Maternity,11/19/2024,185.4
+835,Maternity,11/20/2024,404.39
+836,Maternity,11/21/2024,40
+837,Maternity,11/22/2024,309.94
+838,Maternity,11/23/2024,233.88
+839,Maternity,11/24/2024,353.98
+840,Maternity,11/25/2024,362.45
+841,Maternity,11/26/2024,198.95
+842,Maternity,11/27/2024,323.28
+843,Maternity,11/28/2024,179.94
+844,Maternity,11/29/2024,457.94
+845,Maternity,11/30/2024,181.99
+846,Maternity,12/1/2024,671.69
+847,Maternity,12/2/2024,536.49
+848,Maternity,12/3/2024,299.5
+849,Maternity,12/4/2024,254.17
+850,Maternity,12/5/2024,491.38
+851,Maternity,12/6/2024,351.61
+852,Maternity,12/7/2024,548.89
+853,Maternity,12/8/2024,876.7
+854,Maternity,12/9/2024,196.02
+855,Maternity,12/10/2024,681.45
+856,Maternity,12/11/2024,403.91
+857,Maternity,12/12/2024,242.94
+858,Maternity,12/13/2024,316.98
+859,Maternity,12/14/2024,152.41
+860,Maternity,12/15/2024,366.83
+861,Maternity,12/16/2024,284.91
+862,Maternity,12/17/2024,395.99
+863,Maternity,12/18/2024,195.55
+864,Maternity,12/19/2024,573.75
+865,Maternity,12/20/2024,333.22
+866,Maternity,12/21/2024,234.3
+867,Maternity,12/22/2024,338.48
+868,Maternity,12/23/2024,360.44
+869,Maternity,12/24/2024,231.93
+870,Maternity,12/25/2024,124.94
+871,Maternity,12/26/2024,256.96
+872,Maternity,12/27/2024,656.57
+873,Maternity,12/28/2024,445.46
+874,Maternity,12/29/2024,439.51
+875,Maternity,12/30/2024,476.93
+876,Maternity,12/31/2024,437.83
+877,Maternity,1/1/2025,410.64
+878,Maternity,1/2/2025,291.88
+879,Maternity,1/3/2025,159.93
+880,Maternity,1/4/2025,308.99
+881,Maternity,1/5/2025,264.8
+882,Maternity,1/6/2025,314.98
+883,Maternity,1/7/2025,279.32
+884,Maternity,1/8/2025,638.59
+885,Maternity,1/9/2025,223.92
+886,Maternity,1/10/2025,285.98
+887,Maternity,1/11/2025,257.6
+888,Maternity,1/12/2025,278.54
+889,Maternity,1/13/2025,262.3
+890,Maternity,1/14/2025,403.77
+891,Maternity,1/15/2025,445.94
+892,Maternity,1/16/2025,199.93
+893,Maternity,1/17/2025,93.98
+894,Maternity,1/18/2025,200.54
+895,Maternity,1/19/2025,333.89
+896,Maternity,1/20/2025,425.53
+897,Maternity,1/21/2025,333.17
+898,Maternity,1/22/2025,127.44
+899,Maternity,1/23/2025,181.85
+900,Maternity,1/24/2025,372.17
+901,Maternity,1/25/2025,373.48
+902,Maternity,1/26/2025,382.46
+903,Maternity,1/27/2025,379.4
+904,Maternity,1/28/2025,251.64
+905,Maternity,1/29/2025,629.57
+906,Maternity,1/30/2025,210.91
+907,Maternity,1/31/2025,280.49
+908,Maternity,2/1/2025,511.42
+909,Maternity,2/2/2025,632.28
+910,Maternity,2/3/2025,452.81
+911,Maternity,2/4/2025,593.17
+912,Maternity,2/5/2025,492.96
+913,Maternity,2/6/2025,87.32
+914,Maternity,2/7/2025,245.97
+915,Maternity,2/8/2025,196.99
+916,Maternity,2/9/2025,359.04
+917,Maternity,2/10/2025,383.84
+918,Outerwear & Coats,11/10/2024,827.87
+919,Outerwear & Coats,11/11/2024,2706.47
+920,Outerwear & Coats,11/12/2024,765.21
+921,Outerwear & Coats,11/13/2024,1072.25
+922,Outerwear & Coats,11/14/2024,2464.13
+923,Outerwear & Coats,11/15/2024,1871.6
+924,Outerwear & Coats,11/16/2024,1165.93
+925,Outerwear & Coats,11/17/2024,2003.61
+926,Outerwear & Coats,11/18/2024,1694.64
+927,Outerwear & Coats,11/19/2024,1698.46
+928,Outerwear & Coats,11/20/2024,1095.3
+929,Outerwear & Coats,11/21/2024,894.96
+930,Outerwear & Coats,11/22/2024,1540.96
+931,Outerwear & Coats,11/23/2024,3139.06
+932,Outerwear & Coats,11/24/2024,1278.11
+933,Outerwear & Coats,11/25/2024,1109.88
+934,Outerwear & Coats,11/26/2024,1465.79
+935,Outerwear & Coats,11/27/2024,1725.83
+936,Outerwear & Coats,11/28/2024,1408.89
+937,Outerwear & Coats,11/29/2024,742.78
+938,Outerwear & Coats,11/30/2024,879.95
+939,Outerwear & Coats,12/1/2024,961.72
+940,Outerwear & Coats,12/2/2024,2187.85
+941,Outerwear & Coats,12/3/2024,2290.86
+942,Outerwear & Coats,12/4/2024,3171.45
+943,Outerwear & Coats,12/5/2024,2246.12
+944,Outerwear & Coats,12/6/2024,2448.83
+945,Outerwear & Coats,12/7/2024,2620.1
+946,Outerwear & Coats,12/8/2024,2344.96
+947,Outerwear & Coats,12/9/2024,1732.89
+948,Outerwear & Coats,12/10/2024,1086.43
+949,Outerwear & Coats,12/11/2024,2725.69
+950,Outerwear & Coats,12/12/2024,1477.69
+951,Outerwear & Coats,12/13/2024,1464.96
+952,Outerwear & Coats,12/14/2024,1860.24
+953,Outerwear & Coats,12/15/2024,1064.94
+954,Outerwear & Coats,12/16/2024,1364.11
+955,Outerwear & Coats,12/17/2024,1054.24
+956,Outerwear & Coats,12/18/2024,1820.48
+957,Outerwear & Coats,12/19/2024,2087.84
+958,Outerwear & Coats,12/20/2024,875.27
+959,Outerwear & Coats,12/21/2024,1115.53
+960,Outerwear & Coats,12/22/2024,984.97
+961,Outerwear & Coats,12/23/2024,1782
+962,Outerwear & Coats,12/24/2024,1654.83
+963,Outerwear & Coats,12/25/2024,909.79
+964,Outerwear & Coats,12/26/2024,1339.91
+965,Outerwear & Coats,12/27/2024,1230.2
+966,Outerwear & Coats,12/28/2024,1355.56
+967,Outerwear & Coats,12/29/2024,934.48
+968,Outerwear & Coats,12/30/2024,1891.48
+969,Outerwear & Coats,12/31/2024,1436.92
+970,Outerwear & Coats,1/1/2025,1347.21
+971,Outerwear & Coats,1/2/2025,1219.56
+972,Outerwear & Coats,1/3/2025,2153.89
+973,Outerwear & Coats,1/4/2025,1894.57
+974,Outerwear & Coats,1/5/2025,401.35
+975,Outerwear & Coats,1/6/2025,1321.9
+976,Outerwear & Coats,1/7/2025,1139.33
+977,Outerwear & Coats,1/8/2025,2160.2
+978,Outerwear & Coats,1/9/2025,1492.9
+979,Outerwear & Coats,1/10/2025,753.96
+980,Outerwear & Coats,1/11/2025,708.44
+981,Outerwear & Coats,1/12/2025,2360.57
+982,Outerwear & Coats,1/13/2025,2360.19
+983,Outerwear & Coats,1/14/2025,2090.01
+984,Outerwear & Coats,1/15/2025,881.62
+985,Outerwear & Coats,1/16/2025,2957.68
+986,Outerwear & Coats,1/17/2025,2425.4
+987,Outerwear & Coats,1/18/2025,2446.09
+988,Outerwear & Coats,1/19/2025,1953.32
+989,Outerwear & Coats,1/20/2025,655.72
+990,Outerwear & Coats,1/21/2025,2315.06
+991,Outerwear & Coats,1/22/2025,2356.35
+992,Outerwear & Coats,1/23/2025,1256.47
+993,Outerwear & Coats,1/24/2025,2415.93
+994,Outerwear & Coats,1/25/2025,1578.76
+995,Outerwear & Coats,1/26/2025,1914.63
+996,Outerwear & Coats,1/27/2025,733.89
+997,Outerwear & Coats,1/28/2025,688.54
+998,Outerwear & Coats,1/29/2025,2760.04
+999,Outerwear & Coats,1/30/2025,1474.65
+1000,Outerwear & Coats,1/31/2025,1857.1
+1001,Outerwear & Coats,2/1/2025,2022.3
+1002,Outerwear & Coats,2/2/2025,3087.45
+1003,Outerwear & Coats,2/3/2025,771.65
+1004,Outerwear & Coats,2/4/2025,1077.6
+1005,Outerwear & Coats,2/5/2025,1653.87
+1006,Outerwear & Coats,2/6/2025,1695.84
+1007,Outerwear & Coats,2/7/2025,1900.24
+1008,Outerwear & Coats,2/8/2025,1243.53
+1009,Outerwear & Coats,2/9/2025,1973.27
+1010,Outerwear & Coats,2/10/2025,2737.81
+1011,Pants,11/10/2024,817.43
+1012,Pants,11/11/2024,644.6
+1013,Pants,11/12/2024,377.82
+1014,Pants,11/13/2024,195.79
+1015,Pants,11/14/2024,994.76
+1016,Pants,11/15/2024,825.79
+1017,Pants,11/16/2024,425.42
+1018,Pants,11/17/2024,670.64
+1019,Pants,11/18/2024,370.49
+1020,Pants,11/19/2024,669.83
+1021,Pants,11/20/2024,249.54
+1022,Pants,11/21/2024,383.97
+1023,Pants,11/22/2024,694.25
+1024,Pants,11/23/2024,699.46
+1025,Pants,11/24/2024,476.17
+1026,Pants,11/25/2024,778.8
+1027,Pants,11/26/2024,340.24
+1028,Pants,11/27/2024,149.01
+1029,Pants,11/28/2024,644.51
+1030,Pants,11/29/2024,635.7
+1031,Pants,11/30/2024,456.48
+1032,Pants,12/1/2024,373.53
+1033,Pants,12/2/2024,585.04
+1034,Pants,12/3/2024,553.64
+1035,Pants,12/4/2024,379.04
+1036,Pants,12/5/2024,394.49
+1037,Pants,12/6/2024,437.4
+1038,Pants,12/7/2024,322.24
+1039,Pants,12/8/2024,568.83
+1040,Pants,12/9/2024,337.73
+1041,Pants,12/10/2024,537.95
+1042,Pants,12/11/2024,550.64
+1043,Pants,12/12/2024,246.76
+1044,Pants,12/13/2024,400.77
+1045,Pants,12/14/2024,139.78
+1046,Pants,12/15/2024,525.2
+1047,Pants,12/16/2024,416.19
+1048,Pants,12/17/2024,618.93
+1049,Pants,12/18/2024,673.95
+1050,Pants,12/19/2024,330.32
+1051,Pants,12/20/2024,680.18
+1052,Pants,12/21/2024,337.93
+1053,Pants,12/22/2024,541.86
+1054,Pants,12/23/2024,385.27
+1055,Pants,12/24/2024,310.04
+1056,Pants,12/25/2024,207.99
+1057,Pants,12/26/2024,1003.21
+1058,Pants,12/27/2024,272.83
+1059,Pants,12/28/2024,839.6
+1060,Pants,12/29/2024,403.78
+1061,Pants,12/30/2024,605.92
+1062,Pants,12/31/2024,602.83
+1063,Pants,1/1/2025,618.95
+1064,Pants,1/2/2025,205
+1065,Pants,1/3/2025,631.37
+1066,Pants,1/4/2025,334.69
+1067,Pants,1/5/2025,339.91
+1068,Pants,1/6/2025,550.28
+1069,Pants,1/7/2025,561.53
+1070,Pants,1/8/2025,538.81
+1071,Pants,1/9/2025,612.64
+1072,Pants,1/10/2025,84.5
+1073,Pants,1/11/2025,459.61
+1074,Pants,1/12/2025,533.93
+1075,Pants,1/13/2025,618.07
+1076,Pants,1/14/2025,680.27
+1077,Pants,1/15/2025,339.78
+1078,Pants,1/16/2025,351.93
+1079,Pants,1/17/2025,954.6
+1080,Pants,1/18/2025,414.67
+1081,Pants,1/19/2025,541.63
+1082,Pants,1/20/2025,277.37
+1083,Pants,1/21/2025,502.69
+1084,Pants,1/22/2025,319.13
+1085,Pants,1/23/2025,531.47
+1086,Pants,1/24/2025,803.44
+1087,Pants,1/25/2025,410.33
+1088,Pants,1/26/2025,978.14
+1089,Pants,1/27/2025,313.98
+1090,Pants,1/28/2025,699
+1091,Pants,1/29/2025,547.52
+1092,Pants,1/30/2025,480.82
+1093,Pants,1/31/2025,397.74
+1094,Pants,2/1/2025,583.9
+1095,Pants,2/2/2025,401.5
+1096,Pants,2/3/2025,254.66
+1097,Pants,2/4/2025,623.51
+1098,Pants,2/5/2025,362.4
+1099,Pants,2/6/2025,580.34
+1100,Pants,2/7/2025,678.95
+1101,Pants,2/8/2025,419.71
+1102,Pants,2/9/2025,606.29
+1103,Pants,2/10/2025,653.49
+1104,Pants & Capris,11/10/2024,90.99
+1105,Pants & Capris,11/11/2024,158.26
+1106,Pants & Capris,11/12/2024,171.99
+1107,Pants & Capris,11/13/2024,500.87
+1108,Pants & Capris,11/14/2024,253.42
+1109,Pants & Capris,11/15/2024,501.26
+1110,Pants & Capris,11/16/2024,124.97
+1111,Pants & Capris,11/17/2024,24.99
+1112,Pants & Capris,11/18/2024,483.34
+1113,Pants & Capris,11/19/2024,70.9
+1114,Pants & Capris,11/20/2024,113.95
+1115,Pants & Capris,11/21/2024,365.26
+1116,Pants & Capris,11/22/2024,124.77
+1117,Pants & Capris,11/23/2024,385.45
+1118,Pants & Capris,11/24/2024,249.47
+1119,Pants & Capris,11/25/2024,66.98
+1120,Pants & Capris,11/26/2024,69
+1121,Pants & Capris,11/27/2024,212.05
+1122,Pants & Capris,11/28/2024,59.22
+1123,Pants & Capris,11/29/2024,338.11
+1124,Pants & Capris,11/30/2024,41.98
+1125,Pants & Capris,12/1/2024,334.23
+1126,Pants & Capris,12/2/2024,293.32
+1127,Pants & Capris,12/3/2024,260
+1128,Pants & Capris,12/4/2024,207.28
+1129,Pants & Capris,12/5/2024,492.67
+1130,Pants & Capris,12/6/2024,124.02
+1131,Pants & Capris,12/7/2024,296.57
+1132,Pants & Capris,12/8/2024,92
+1133,Pants & Capris,12/9/2024,176.95
+1134,Pants & Capris,12/10/2024,162.98
+1135,Pants & Capris,12/11/2024,19.58
+1136,Pants & Capris,12/12/2024,246.18
+1137,Pants & Capris,12/13/2024,288.55
+1138,Pants & Capris,12/14/2024,974.49
+1139,Pants & Capris,12/15/2024,135.26
+1140,Pants & Capris,12/16/2024,426.95
+1141,Pants & Capris,12/18/2024,96.46
+1142,Pants & Capris,12/19/2024,403.98
+1143,Pants & Capris,12/20/2024,201.97
+1144,Pants & Capris,12/21/2024,207.35
+1145,Pants & Capris,12/22/2024,281.17
+1146,Pants & Capris,12/23/2024,80.06
+1147,Pants & Capris,12/24/2024,1068.22
+1148,Pants & Capris,12/25/2024,380.99
+1149,Pants & Capris,12/26/2024,39.01
+1150,Pants & Capris,12/27/2024,202.56
+1151,Pants & Capris,12/28/2024,146.49
+1152,Pants & Capris,12/29/2024,181.89
+1153,Pants & Capris,12/30/2024,176.04
+1154,Pants & Capris,12/31/2024,340.47
+1155,Pants & Capris,1/1/2025,136.91
+1156,Pants & Capris,1/2/2025,121.49
+1157,Pants & Capris,1/3/2025,280.28
+1158,Pants & Capris,1/4/2025,327.51
+1159,Pants & Capris,1/5/2025,377.87
+1160,Pants & Capris,1/6/2025,99.79
+1161,Pants & Capris,1/7/2025,483.38
+1162,Pants & Capris,1/8/2025,256.99
+1163,Pants & Capris,1/9/2025,74
+1164,Pants & Capris,1/10/2025,190.94
+1165,Pants & Capris,1/11/2025,378.99
+1166,Pants & Capris,1/12/2025,374.82
+1167,Pants & Capris,1/13/2025,454.96
+1168,Pants & Capris,1/14/2025,111.66
+1169,Pants & Capris,1/15/2025,408.26
+1170,Pants & Capris,1/16/2025,381.17
+1171,Pants & Capris,1/17/2025,282.66
+1172,Pants & Capris,1/18/2025,467.76
+1173,Pants & Capris,1/19/2025,654.38
+1174,Pants & Capris,1/20/2025,95.48
+1175,Pants & Capris,1/21/2025,394.59
+1176,Pants & Capris,1/22/2025,219.03
+1177,Pants & Capris,1/23/2025,323.58
+1178,Pants & Capris,1/24/2025,540.92
+1179,Pants & Capris,1/25/2025,209.17
+1180,Pants & Capris,1/26/2025,52.92
+1181,Pants & Capris,1/27/2025,370.39
+1182,Pants & Capris,1/28/2025,317.99
+1183,Pants & Capris,1/29/2025,207.96
+1184,Pants & Capris,1/30/2025,399.86
+1185,Pants & Capris,1/31/2025,441.4
+1186,Pants & Capris,2/1/2025,251.9
+1187,Pants & Capris,2/2/2025,175.92
+1188,Pants & Capris,2/3/2025,420.74
+1189,Pants & Capris,2/4/2025,162.5
+1190,Pants & Capris,2/5/2025,28.02
+1191,Pants & Capris,2/6/2025,477.31
+1192,Pants & Capris,2/7/2025,150.19
+1193,Pants & Capris,2/8/2025,151.9
+1194,Pants & Capris,2/9/2025,87.95
+1195,Pants & Capris,2/10/2025,111.57
+1196,Plus,11/10/2024,207.66
+1197,Plus,11/11/2024,215.13
+1198,Plus,11/12/2024,85.07
+1199,Plus,11/13/2024,265.98
+1200,Plus,11/14/2024,385.85
+1201,Plus,11/15/2024,211.2
+1202,Plus,11/16/2024,382.92
+1203,Plus,11/17/2024,189.44
+1204,Plus,11/18/2024,204.92
+1205,Plus,11/19/2024,473.41
+1206,Plus,11/20/2024,174.39
+1207,Plus,11/21/2024,67.74
+1208,Plus,11/22/2024,412.56
+1209,Plus,11/23/2024,134.47
+1210,Plus,11/24/2024,167.43
+1211,Plus,11/25/2024,93.45
+1212,Plus,11/26/2024,172.49
+1213,Plus,11/27/2024,222.99
+1214,Plus,11/28/2024,213.62
+1215,Plus,11/29/2024,56.14
+1216,Plus,11/30/2024,367.1
+1217,Plus,12/1/2024,408.27
+1218,Plus,12/2/2024,282.57
+1219,Plus,12/3/2024,311.89
+1220,Plus,12/4/2024,327.45
+1221,Plus,12/5/2024,81.41
+1222,Plus,12/6/2024,29.99
+1223,Plus,12/7/2024,85.55
+1224,Plus,12/8/2024,339.15
+1225,Plus,12/9/2024,95.73
+1226,Plus,12/10/2024,339.01
+1227,Plus,12/11/2024,62.49
+1228,Plus,12/12/2024,98.97
+1229,Plus,12/13/2024,229.41
+1230,Plus,12/14/2024,300.06
+1231,Plus,12/15/2024,105
+1232,Plus,12/16/2024,306.1
+1233,Plus,12/17/2024,210.11
+1234,Plus,12/18/2024,245.99
+1235,Plus,12/19/2024,79.57
+1236,Plus,12/20/2024,74.14
+1237,Plus,12/21/2024,87.06
+1238,Plus,12/22/2024,212.1
+1239,Plus,12/23/2024,330.84
+1240,Plus,12/24/2024,180.22
+1241,Plus,12/25/2024,172.33
+1242,Plus,12/26/2024,202.02
+1243,Plus,12/27/2024,45.35
+1244,Plus,12/28/2024,244.79
+1245,Plus,12/29/2024,124.94
+1246,Plus,12/30/2024,209.44
+1247,Plus,12/31/2024,184.53
+1248,Plus,1/1/2025,142.42
+1249,Plus,1/2/2025,220.03
+1250,Plus,1/3/2025,176.35
+1251,Plus,1/4/2025,56.94
+1252,Plus,1/5/2025,192.49
+1253,Plus,1/6/2025,191.5
+1254,Plus,1/7/2025,312.59
+1255,Plus,1/8/2025,167.98
+1256,Plus,1/9/2025,87.31
+1257,Plus,1/10/2025,32
+1258,Plus,1/11/2025,313.27
+1259,Plus,1/12/2025,157.67
+1260,Plus,1/13/2025,105.65
+1261,Plus,1/14/2025,84.29
+1262,Plus,1/15/2025,200.94
+1263,Plus,1/16/2025,256.21
+1264,Plus,1/17/2025,92
+1265,Plus,1/18/2025,148.95
+1266,Plus,1/19/2025,222.77
+1267,Plus,1/20/2025,212.86
+1268,Plus,1/21/2025,162.92
+1269,Plus,1/22/2025,52.43
+1270,Plus,1/23/2025,340.14
+1271,Plus,1/24/2025,223.99
+1272,Plus,1/25/2025,66.93
+1273,Plus,1/26/2025,251.92
+1274,Plus,1/27/2025,316.43
+1275,Plus,1/28/2025,189.89
+1276,Plus,1/29/2025,24.99
+1277,Plus,1/30/2025,221.94
+1278,Plus,1/31/2025,126.58
+1279,Plus,2/1/2025,239.34
+1280,Plus,2/2/2025,269.09
+1281,Plus,2/3/2025,177.92
+1282,Plus,2/4/2025,33.57
+1283,Plus,2/5/2025,180.35
+1284,Plus,2/6/2025,182.74
+1285,Plus,2/7/2025,107.93
+1286,Plus,2/8/2025,20
+1287,Plus,2/9/2025,246.04
+1288,Plus,2/10/2025,422.58
+1289,Shorts,11/10/2024,686.42
+1290,Shorts,11/11/2024,716.19
+1291,Shorts,11/12/2024,645.57
+1292,Shorts,11/13/2024,601.05
+1293,Shorts,11/14/2024,348.73
+1294,Shorts,11/15/2024,349.28
+1295,Shorts,11/16/2024,657.73
+1296,Shorts,11/17/2024,555.84
+1297,Shorts,11/18/2024,462.65
+1298,Shorts,11/19/2024,821.84
+1299,Shorts,11/20/2024,523.45
+1300,Shorts,11/21/2024,314.95
+1301,Shorts,11/22/2024,468.33
+1302,Shorts,11/23/2024,466
+1303,Shorts,11/24/2024,349.43
+1304,Shorts,11/25/2024,491.93
+1305,Shorts,11/26/2024,862.93
+1306,Shorts,11/27/2024,979.23
+1307,Shorts,11/28/2024,586.79
+1308,Shorts,11/29/2024,531.81
+1309,Shorts,11/30/2024,571.76
+1310,Shorts,12/1/2024,370.75
+1311,Shorts,12/2/2024,291.39
+1312,Shorts,12/3/2024,487.82
+1313,Shorts,12/4/2024,590.05
+1314,Shorts,12/5/2024,668.65
+1315,Shorts,12/6/2024,620.97
+1316,Shorts,12/7/2024,788.38
+1317,Shorts,12/8/2024,549.83
+1318,Shorts,12/9/2024,610.12
+1319,Shorts,12/10/2024,664.74
+1320,Shorts,12/11/2024,620.57
+1321,Shorts,12/12/2024,746.71
+1322,Shorts,12/13/2024,409.77
+1323,Shorts,12/14/2024,484.07
+1324,Shorts,12/15/2024,254.97
+1325,Shorts,12/16/2024,470.43
+1326,Shorts,12/17/2024,595.77
+1327,Shorts,12/18/2024,611.61
+1328,Shorts,12/19/2024,815.85
+1329,Shorts,12/20/2024,631.13
+1330,Shorts,12/21/2024,569.72
+1331,Shorts,12/22/2024,347.47
+1332,Shorts,12/23/2024,308.03
+1333,Shorts,12/24/2024,1579.18
+1334,Shorts,12/25/2024,735.03
+1335,Shorts,12/26/2024,525.84
+1336,Shorts,12/27/2024,543.42
+1337,Shorts,12/28/2024,561.59
+1338,Shorts,12/29/2024,435.36
+1339,Shorts,12/30/2024,1058.54
+1340,Shorts,12/31/2024,765.67
+1341,Shorts,1/1/2025,517.2
+1342,Shorts,1/2/2025,731.05
+1343,Shorts,1/3/2025,548.37
+1344,Shorts,1/4/2025,1009.39
+1345,Shorts,1/5/2025,1449
+1346,Shorts,1/6/2025,590.76
+1347,Shorts,1/7/2025,610.2
+1348,Shorts,1/8/2025,641.18
+1349,Shorts,1/9/2025,194.18
+1350,Shorts,1/10/2025,419.17
+1351,Shorts,1/11/2025,558.94
+1352,Shorts,1/12/2025,144.41
+1353,Shorts,1/13/2025,484.03
+1354,Shorts,1/14/2025,899.97
+1355,Shorts,1/15/2025,808.98
+1356,Shorts,1/16/2025,667.1
+1357,Shorts,1/17/2025,587.76
+1358,Shorts,1/18/2025,710.84
+1359,Shorts,1/19/2025,571.46
+1360,Shorts,1/20/2025,606.89
+1361,Shorts,1/21/2025,1035.1
+1362,Shorts,1/22/2025,861.62
+1363,Shorts,1/23/2025,868.33
+1364,Shorts,1/24/2025,412.7
+1365,Shorts,1/25/2025,783.56
+1366,Shorts,1/26/2025,504.08
+1367,Shorts,1/27/2025,642.13
+1368,Shorts,1/28/2025,368.88
+1369,Shorts,1/29/2025,562.79
+1370,Shorts,1/30/2025,860
+1371,Shorts,1/31/2025,479.02
+1372,Shorts,2/1/2025,561.32
+1373,Shorts,2/2/2025,689.92
+1374,Shorts,2/3/2025,877.52
+1375,Shorts,2/4/2025,719.56
+1376,Shorts,2/5/2025,373.29
+1377,Shorts,2/6/2025,870.64
+1378,Shorts,2/7/2025,790.39
+1379,Shorts,2/8/2025,391.74
+1380,Shorts,2/9/2025,673.09
+1381,Shorts,2/10/2025,482.7
+1382,Skirts,11/10/2024,266.97
+1383,Skirts,11/11/2024,98.78
+1384,Skirts,11/12/2024,98
+1385,Skirts,11/13/2024,109.93
+1386,Skirts,11/14/2024,16.58
+1387,Skirts,11/15/2024,126
+1388,Skirts,11/16/2024,154.14
+1389,Skirts,11/17/2024,179.29
+1390,Skirts,11/18/2024,394.93
+1391,Skirts,11/20/2024,694.98
+1392,Skirts,11/21/2024,142.45
+1393,Skirts,11/23/2024,236.01
+1394,Skirts,11/25/2024,111.98
+1395,Skirts,11/26/2024,15.9
+1396,Skirts,11/27/2024,31.99
+1397,Skirts,11/28/2024,54.45
+1398,Skirts,11/29/2024,9.48
+1399,Skirts,11/30/2024,118.28
+1400,Skirts,12/1/2024,135.41
+1401,Skirts,12/2/2024,106.94
+1402,Skirts,12/4/2024,88
+1403,Skirts,12/5/2024,169.9
+1404,Skirts,12/6/2024,117.95
+1405,Skirts,12/7/2024,146.9
+1406,Skirts,12/8/2024,354.17
+1407,Skirts,12/9/2024,108.98
+1408,Skirts,12/10/2024,47.95
+1409,Skirts,12/11/2024,127.45
+1410,Skirts,12/12/2024,116.47
+1411,Skirts,12/13/2024,56.99
+1412,Skirts,12/14/2024,229.94
+1413,Skirts,12/16/2024,287.5
+1414,Skirts,12/17/2024,162.09
+1415,Skirts,12/19/2024,120.23
+1416,Skirts,12/20/2024,88.95
+1417,Skirts,12/21/2024,311.35
+1418,Skirts,12/22/2024,206.97
+1419,Skirts,12/23/2024,233.47
+1420,Skirts,12/24/2024,79.44
+1421,Skirts,12/25/2024,408.57
+1422,Skirts,12/26/2024,27.99
+1423,Skirts,12/27/2024,56.89
+1424,Skirts,12/28/2024,206.47
+1425,Skirts,12/29/2024,175.9
+1426,Skirts,12/30/2024,192.83
+1427,Skirts,12/31/2024,71
+1428,Skirts,1/1/2025,122.64
+1429,Skirts,1/2/2025,152.75
+1430,Skirts,1/3/2025,197.99
+1431,Skirts,1/4/2025,52
+1432,Skirts,1/5/2025,49
+1433,Skirts,1/6/2025,132
+1434,Skirts,1/7/2025,48.91
+1435,Skirts,1/8/2025,29.5
+1436,Skirts,1/9/2025,122.94
+1437,Skirts,1/10/2025,128.48
+1438,Skirts,1/11/2025,254.41
+1439,Skirts,1/12/2025,223.83
+1440,Skirts,1/13/2025,224
+1441,Skirts,1/14/2025,101.44
+1442,Skirts,1/15/2025,45.95
+1443,Skirts,1/16/2025,164.9
+1444,Skirts,1/18/2025,38
+1445,Skirts,1/19/2025,245.9
+1446,Skirts,1/20/2025,55.98
+1447,Skirts,1/21/2025,181.79
+1448,Skirts,1/22/2025,9.5
+1449,Skirts,1/23/2025,197.61
+1450,Skirts,1/25/2025,123.98
+1451,Skirts,1/26/2025,36.99
+1452,Skirts,1/27/2025,57.73
+1453,Skirts,1/28/2025,201.98
+1454,Skirts,1/29/2025,592.93
+1455,Skirts,1/30/2025,82.66
+1456,Skirts,1/31/2025,90.9
+1457,Skirts,2/1/2025,157.99
+1458,Skirts,2/2/2025,147.83
+1459,Skirts,2/3/2025,71.98
+1460,Skirts,2/4/2025,263.99
+1461,Skirts,2/5/2025,259.12
+1462,Skirts,2/6/2025,36.99
+1463,Skirts,2/7/2025,29.45
+1464,Skirts,2/8/2025,147.96
+1465,Skirts,2/9/2025,524.48
+1466,Skirts,2/10/2025,53
+1467,Sleep & Lounge,11/10/2024,457.76
+1468,Sleep & Lounge,11/11/2024,323.13
+1469,Sleep & Lounge,11/12/2024,649.06
+1470,Sleep & Lounge,11/13/2024,528.8
+1471,Sleep & Lounge,11/14/2024,707.39
+1472,Sleep & Lounge,11/15/2024,791.04
+1473,Sleep & Lounge,11/16/2024,558.71
+1474,Sleep & Lounge,11/17/2024,371.94
+1475,Sleep & Lounge,11/18/2024,378.11
+1476,Sleep & Lounge,11/19/2024,555.77
+1477,Sleep & Lounge,11/20/2024,597.61
+1478,Sleep & Lounge,11/21/2024,484.26
+1479,Sleep & Lounge,11/22/2024,755.59
+1480,Sleep & Lounge,11/23/2024,401.65
+1481,Sleep & Lounge,11/24/2024,440.85
+1482,Sleep & Lounge,11/25/2024,620.45
+1483,Sleep & Lounge,11/26/2024,981.08
+1484,Sleep & Lounge,11/27/2024,421.36
+1485,Sleep & Lounge,11/28/2024,265.51
+1486,Sleep & Lounge,11/29/2024,894.95
+1487,Sleep & Lounge,11/30/2024,1242.52
+1488,Sleep & Lounge,12/1/2024,723.44
+1489,Sleep & Lounge,12/2/2024,295.75
+1490,Sleep & Lounge,12/3/2024,771.1
+1491,Sleep & Lounge,12/4/2024,328.42
+1492,Sleep & Lounge,12/5/2024,906.64
+1493,Sleep & Lounge,12/6/2024,612.9
+1494,Sleep & Lounge,12/7/2024,456.45
+1495,Sleep & Lounge,12/8/2024,1385.74
+1496,Sleep & Lounge,12/9/2024,831.32
+1497,Sleep & Lounge,12/10/2024,868.99
+1498,Sleep & Lounge,12/11/2024,638
+1499,Sleep & Lounge,12/12/2024,904.98
+1500,Sleep & Lounge,12/13/2024,556.77
+1501,Sleep & Lounge,12/14/2024,228.87
+1502,Sleep & Lounge,12/15/2024,407.01
+1503,Sleep & Lounge,12/16/2024,888.94
+1504,Sleep & Lounge,12/17/2024,513.63
+1505,Sleep & Lounge,12/18/2024,530.7
+1506,Sleep & Lounge,12/19/2024,836.24
+1507,Sleep & Lounge,12/20/2024,633.38
+1508,Sleep & Lounge,12/21/2024,503.13
+1509,Sleep & Lounge,12/22/2024,557.4
+1510,Sleep & Lounge,12/23/2024,716.04
+1511,Sleep & Lounge,12/24/2024,350.78
+1512,Sleep & Lounge,12/25/2024,788.09
+1513,Sleep & Lounge,12/26/2024,769.02
+1514,Sleep & Lounge,12/27/2024,684.47
+1515,Sleep & Lounge,12/28/2024,1046.68
+1516,Sleep & Lounge,12/29/2024,597.02
+1517,Sleep & Lounge,12/30/2024,278.37
+1518,Sleep & Lounge,12/31/2024,826.26
+1519,Sleep & Lounge,1/1/2025,894.07
+1520,Sleep & Lounge,1/2/2025,805.58
+1521,Sleep & Lounge,1/3/2025,317.86
+1522,Sleep & Lounge,1/4/2025,334.84
+1523,Sleep & Lounge,1/5/2025,830.86
+1524,Sleep & Lounge,1/6/2025,661.3
+1525,Sleep & Lounge,1/7/2025,718.09
+1526,Sleep & Lounge,1/8/2025,635.55
+1527,Sleep & Lounge,1/9/2025,566.63
+1528,Sleep & Lounge,1/10/2025,302.09
+1529,Sleep & Lounge,1/11/2025,763.37
+1530,Sleep & Lounge,1/12/2025,437.24
+1531,Sleep & Lounge,1/13/2025,1032.56
+1532,Sleep & Lounge,1/14/2025,438.8
+1533,Sleep & Lounge,1/15/2025,968.05
+1534,Sleep & Lounge,1/16/2025,919.27
+1535,Sleep & Lounge,1/17/2025,700.38
+1536,Sleep & Lounge,1/18/2025,884.22
+1537,Sleep & Lounge,1/19/2025,1166.61
+1538,Sleep & Lounge,1/20/2025,1013.13
+1539,Sleep & Lounge,1/21/2025,300.43
+1540,Sleep & Lounge,1/22/2025,705.72
+1541,Sleep & Lounge,1/23/2025,427.45
+1542,Sleep & Lounge,1/24/2025,701.27
+1543,Sleep & Lounge,1/25/2025,523.78
+1544,Sleep & Lounge,1/26/2025,552.08
+1545,Sleep & Lounge,1/27/2025,858.04
+1546,Sleep & Lounge,1/28/2025,659.29
+1547,Sleep & Lounge,1/29/2025,542.51
+1548,Sleep & Lounge,1/30/2025,1195.32
+1549,Sleep & Lounge,1/31/2025,530.78
+1550,Sleep & Lounge,2/1/2025,602.15
+1551,Sleep & Lounge,2/2/2025,819.82
+1552,Sleep & Lounge,2/3/2025,961.73
+1553,Sleep & Lounge,2/4/2025,911.23
+1554,Sleep & Lounge,2/5/2025,346.27
+1555,Sleep & Lounge,2/6/2025,393.34
+1556,Sleep & Lounge,2/7/2025,370.24
+1557,Sleep & Lounge,2/8/2025,893.87
+1558,Sleep & Lounge,2/9/2025,272.93
+1559,Sleep & Lounge,2/10/2025,690.85
+1560,Socks,11/10/2024,185.04
+1561,Socks,11/11/2024,120.39
+1562,Socks,11/12/2024,39.19
+1563,Socks,11/13/2024,64.93
+1564,Socks,11/14/2024,157.39
+1565,Socks,11/15/2024,34.59
+1566,Socks,11/16/2024,84.98
+1567,Socks,11/17/2024,123.9
+1568,Socks,11/18/2024,131.58
+1569,Socks,11/19/2024,194.97
+1570,Socks,11/20/2024,96.89
+1571,Socks,11/21/2024,153.43
+1572,Socks,11/22/2024,101.51
+1573,Socks,11/23/2024,174.19
+1574,Socks,11/24/2024,98.43
+1575,Socks,11/25/2024,174.92
+1576,Socks,11/26/2024,153.79
+1577,Socks,11/27/2024,120.38
+1578,Socks,11/28/2024,110.39
+1579,Socks,11/29/2024,69.59
+1580,Socks,11/30/2024,133.85
+1581,Socks,12/1/2024,133.47
+1582,Socks,12/2/2024,165.09
+1583,Socks,12/3/2024,125.5
+1584,Socks,12/4/2024,82.35
+1585,Socks,12/5/2024,157.08
+1586,Socks,12/6/2024,130.47
+1587,Socks,12/7/2024,35.73
+1588,Socks,12/8/2024,244.69
+1589,Socks,12/9/2024,112.74
+1590,Socks,12/10/2024,116.49
+1591,Socks,12/11/2024,137.97
+1592,Socks,12/12/2024,95.86
+1593,Socks,12/13/2024,110.68
+1594,Socks,12/14/2024,268.2
+1595,Socks,12/15/2024,128.9
+1596,Socks,12/16/2024,63.57
+1597,Socks,12/17/2024,98.69
+1598,Socks,12/18/2024,115.43
+1599,Socks,12/19/2024,142.05
+1600,Socks,12/20/2024,133.99
+1601,Socks,12/21/2024,116.16
+1602,Socks,12/22/2024,86.63
+1603,Socks,12/23/2024,34.88
+1604,Socks,12/24/2024,167.95
+1605,Socks,12/25/2024,132.94
+1606,Socks,12/26/2024,179.13
+1607,Socks,12/27/2024,77.37
+1608,Socks,12/28/2024,137.91
+1609,Socks,12/29/2024,12.99
+1610,Socks,12/30/2024,131.27
+1611,Socks,12/31/2024,122.47
+1612,Socks,1/1/2025,321.37
+1613,Socks,1/2/2025,40.98
+1614,Socks,1/3/2025,91.07
+1615,Socks,1/4/2025,129.02
+1616,Socks,1/5/2025,180.69
+1617,Socks,1/6/2025,83.9
+1618,Socks,1/7/2025,62.5
+1619,Socks,1/8/2025,89
+1620,Socks,1/9/2025,152.13
+1621,Socks,1/10/2025,96.62
+1622,Socks,1/11/2025,117.65
+1623,Socks,1/12/2025,90.05
+1624,Socks,1/13/2025,88.12
+1625,Socks,1/14/2025,159.47
+1626,Socks,1/15/2025,112.37
+1627,Socks,1/16/2025,127.42
+1628,Socks,1/17/2025,205.73
+1629,Socks,1/18/2025,74.99
+1630,Socks,1/19/2025,189.16
+1631,Socks,1/20/2025,143.89
+1632,Socks,1/21/2025,217.62
+1633,Socks,1/22/2025,194.01
+1634,Socks,1/23/2025,109.43
+1635,Socks,1/24/2025,173.24
+1636,Socks,1/25/2025,187.67
+1637,Socks,1/26/2025,210.22
+1638,Socks,1/27/2025,107
+1639,Socks,1/28/2025,217.88
+1640,Socks,1/29/2025,174.35
+1641,Socks,1/30/2025,29.98
+1642,Socks,1/31/2025,108.63
+1643,Socks,2/1/2025,99.54
+1644,Socks,2/2/2025,249.14
+1645,Socks,2/3/2025,133.54
+1646,Socks,2/4/2025,172.55
+1647,Socks,2/5/2025,124.37
+1648,Socks,2/6/2025,93.44
+1649,Socks,2/7/2025,173.52
+1650,Socks,2/8/2025,80.14
+1651,Socks,2/9/2025,122.61
+1652,Socks,2/10/2025,105.95
+1653,Socks & Hosiery,11/10/2024,91.97
+1654,Socks & Hosiery,11/11/2024,33.1
+1655,Socks & Hosiery,11/12/2024,95.83
+1656,Socks & Hosiery,11/13/2024,49.45
+1657,Socks & Hosiery,11/14/2024,25.25
+1658,Socks & Hosiery,11/15/2024,45.94
+1659,Socks & Hosiery,11/16/2024,38.93
+1660,Socks & Hosiery,11/17/2024,29.99
+1661,Socks & Hosiery,11/18/2024,94.21
+1662,Socks & Hosiery,11/19/2024,110.48
+1663,Socks & Hosiery,11/20/2024,76.45
+1664,Socks & Hosiery,11/21/2024,84.39
+1665,Socks & Hosiery,11/22/2024,93.72
+1666,Socks & Hosiery,11/23/2024,43.94
+1667,Socks & Hosiery,11/24/2024,92.37
+1668,Socks & Hosiery,11/25/2024,98.33
+1669,Socks & Hosiery,11/26/2024,120.76
+1670,Socks & Hosiery,11/27/2024,118.87
+1671,Socks & Hosiery,11/28/2024,144.7
+1672,Socks & Hosiery,11/29/2024,54.31
+1673,Socks & Hosiery,11/30/2024,88.94
+1674,Socks & Hosiery,12/1/2024,17.99
+1675,Socks & Hosiery,12/2/2024,151.73
+1676,Socks & Hosiery,12/3/2024,88.49
+1677,Socks & Hosiery,12/4/2024,28.98
+1678,Socks & Hosiery,12/5/2024,105.46
+1679,Socks & Hosiery,12/6/2024,25.38
+1680,Socks & Hosiery,12/7/2024,41.5
+1681,Socks & Hosiery,12/8/2024,92.98
+1682,Socks & Hosiery,12/10/2024,86.39
+1683,Socks & Hosiery,12/11/2024,113.37
+1684,Socks & Hosiery,12/12/2024,77.43
+1685,Socks & Hosiery,12/13/2024,14
+1686,Socks & Hosiery,12/14/2024,153.95
+1687,Socks & Hosiery,12/15/2024,124.95
+1688,Socks & Hosiery,12/16/2024,83.91
+1689,Socks & Hosiery,12/17/2024,42.94
+1690,Socks & Hosiery,12/18/2024,149.33
+1691,Socks & Hosiery,12/19/2024,144.79
+1692,Socks & Hosiery,12/20/2024,55.34
+1693,Socks & Hosiery,12/21/2024,88.95
+1694,Socks & Hosiery,12/23/2024,53.94
+1695,Socks & Hosiery,12/24/2024,113.94
+1696,Socks & Hosiery,12/25/2024,186.92
+1697,Socks & Hosiery,12/26/2024,107.49
+1698,Socks & Hosiery,12/27/2024,100.96
+1699,Socks & Hosiery,12/28/2024,28.48
+1700,Socks & Hosiery,12/29/2024,130.05
+1701,Socks & Hosiery,12/30/2024,94.97
+1702,Socks & Hosiery,12/31/2024,36.99
+1703,Socks & Hosiery,1/1/2025,90.63
+1704,Socks & Hosiery,1/2/2025,99.93
+1705,Socks & Hosiery,1/3/2025,76.44
+1706,Socks & Hosiery,1/4/2025,114.9
+1707,Socks & Hosiery,1/5/2025,70.99
+1708,Socks & Hosiery,1/6/2025,79.5
+1709,Socks & Hosiery,1/7/2025,24.94
+1710,Socks & Hosiery,1/8/2025,83.94
+1711,Socks & Hosiery,1/9/2025,48.82
+1712,Socks & Hosiery,1/10/2025,8.99
+1713,Socks & Hosiery,1/11/2025,105.83
+1714,Socks & Hosiery,1/12/2025,113.99
+1715,Socks & Hosiery,1/13/2025,36.98
+1716,Socks & Hosiery,1/14/2025,108.01
+1717,Socks & Hosiery,1/15/2025,191.33
+1718,Socks & Hosiery,1/16/2025,101.67
+1719,Socks & Hosiery,1/17/2025,116.3
+1720,Socks & Hosiery,1/18/2025,47.44
+1721,Socks & Hosiery,1/19/2025,117.86
+1722,Socks & Hosiery,1/20/2025,230.74
+1723,Socks & Hosiery,1/21/2025,101.53
+1724,Socks & Hosiery,1/22/2025,153.75
+1725,Socks & Hosiery,1/23/2025,30.92
+1726,Socks & Hosiery,1/24/2025,67.56
+1727,Socks & Hosiery,1/25/2025,30.57
+1728,Socks & Hosiery,1/26/2025,42.97
+1729,Socks & Hosiery,1/27/2025,72.4
+1730,Socks & Hosiery,1/28/2025,35.5
+1731,Socks & Hosiery,1/29/2025,44.47
+1732,Socks & Hosiery,1/30/2025,48.55
+1733,Socks & Hosiery,1/31/2025,138.74
+1734,Socks & Hosiery,2/1/2025,94.93
+1735,Socks & Hosiery,2/2/2025,59.91
+1736,Socks & Hosiery,2/3/2025,155.72
+1737,Socks & Hosiery,2/4/2025,70.28
+1738,Socks & Hosiery,2/5/2025,79.48
+1739,Socks & Hosiery,2/6/2025,67.98
+1740,Socks & Hosiery,2/7/2025,43.66
+1741,Socks & Hosiery,2/8/2025,95.89
+1742,Socks & Hosiery,2/9/2025,99.09
+1743,Socks & Hosiery,2/10/2025,30.9
+1744,Suits,11/13/2024,21.99
+1745,Suits,11/14/2024,220.07
+1746,Suits,11/15/2024,613.49
+1747,Suits,11/18/2024,159
+1748,Suits,11/19/2024,145
+1749,Suits,11/20/2024,119.5
+1750,Suits,11/21/2024,127.51
+1751,Suits,11/22/2024,127.51
+1752,Suits,11/23/2024,70
+1753,Suits,11/25/2024,326.13
+1754,Suits,11/27/2024,159
+1755,Suits,11/28/2024,55.98
+1756,Suits,11/29/2024,127.51
+1757,Suits,11/30/2024,119.5
+1758,Suits,12/2/2024,462.02
+1759,Suits,12/3/2024,89.99
+1760,Suits,12/4/2024,180.23
+1761,Suits,12/5/2024,417.51
+1762,Suits,12/6/2024,127.51
+1763,Suits,12/7/2024,372.17
+1764,Suits,12/8/2024,164.99
+1765,Suits,12/9/2024,278
+1766,Suits,12/11/2024,159
+1767,Suits,12/12/2024,68.65
+1768,Suits,12/13/2024,55.99
+1769,Suits,12/15/2024,25.99
+1770,Suits,12/16/2024,98.08
+1771,Suits,12/17/2024,198.93
+1772,Suits,12/18/2024,271.51
+1773,Suits,12/21/2024,274.64
+1774,Suits,12/22/2024,464.25
+1775,Suits,12/23/2024,139
+1776,Suits,12/24/2024,276.51
+1777,Suits,12/27/2024,115.99
+1778,Suits,12/30/2024,106.8
+1779,Suits,12/31/2024,376.08
+1780,Suits,1/3/2025,249.24
+1781,Suits,1/4/2025,338.4
+1782,Suits,1/5/2025,280.98
+1783,Suits,1/6/2025,175.49
+1784,Suits,1/9/2025,66.99
+1785,Suits,1/10/2025,168.98
+1786,Suits,1/12/2025,147.13
+1787,Suits,1/13/2025,239.99
+1788,Suits,1/14/2025,127.51
+1789,Suits,1/16/2025,127.51
+1790,Suits,1/17/2025,340.02
+1791,Suits,1/19/2025,269.66
+1792,Suits,1/20/2025,328.42
+1793,Suits,1/21/2025,215.17
+1794,Suits,1/24/2025,109.99
+1795,Suits,1/25/2025,562.31
+1796,Suits,1/26/2025,140
+1797,Suits,1/27/2025,75.99
+1798,Suits,1/28/2025,196.22
+1799,Suits,1/29/2025,386.58
+1800,Suits,1/30/2025,129.99
+1801,Suits,1/31/2025,127.51
+1802,Suits,2/4/2025,326.13
+1803,Suits,2/5/2025,159
+1804,Suits,2/6/2025,176.56
+1805,Suits,2/7/2025,169.99
+1806,Suits,2/8/2025,119.95
+1807,Suits,2/9/2025,114.99
+1808,Suits,2/10/2025,128
+1809,Suits & Sport Coats,11/10/2024,1153.97
+1810,Suits & Sport Coats,11/11/2024,839.29
+1811,Suits & Sport Coats,11/12/2024,1640.83
+1812,Suits & Sport Coats,11/13/2024,444.67
+1813,Suits & Sport Coats,11/14/2024,1573.87
+1814,Suits & Sport Coats,11/15/2024,22.3
+1815,Suits & Sport Coats,11/16/2024,105.84
+1816,Suits & Sport Coats,11/17/2024,1778.32
+1817,Suits & Sport Coats,11/18/2024,450.15
+1818,Suits & Sport Coats,11/19/2024,919.96
+1819,Suits & Sport Coats,11/20/2024,528.94
+1820,Suits & Sport Coats,11/21/2024,1147.57
+1821,Suits & Sport Coats,11/22/2024,998.43
+1822,Suits & Sport Coats,11/23/2024,1433.23
+1823,Suits & Sport Coats,11/24/2024,845.42
+1824,Suits & Sport Coats,11/25/2024,183.86
+1825,Suits & Sport Coats,11/26/2024,155
+1826,Suits & Sport Coats,11/27/2024,1707.08
+1827,Suits & Sport Coats,11/28/2024,288.99
+1828,Suits & Sport Coats,11/29/2024,772.82
+1829,Suits & Sport Coats,11/30/2024,521.87
+1830,Suits & Sport Coats,12/1/2024,519.14
+1831,Suits & Sport Coats,12/2/2024,675.69
+1832,Suits & Sport Coats,12/3/2024,717.69
+1833,Suits & Sport Coats,12/4/2024,1090.16
+1834,Suits & Sport Coats,12/5/2024,886.89
+1835,Suits & Sport Coats,12/6/2024,1484.94
+1836,Suits & Sport Coats,12/7/2024,1274.91
+1837,Suits & Sport Coats,12/8/2024,392.88
+1838,Suits & Sport Coats,12/9/2024,376.22
+1839,Suits & Sport Coats,12/10/2024,654.83
+1840,Suits & Sport Coats,12/11/2024,451.36
+1841,Suits & Sport Coats,12/12/2024,591.7
+1842,Suits & Sport Coats,12/13/2024,567.84
+1843,Suits & Sport Coats,12/14/2024,995.14
+1844,Suits & Sport Coats,12/15/2024,701.9
+1845,Suits & Sport Coats,12/16/2024,606.96
+1846,Suits & Sport Coats,12/17/2024,569.92
+1847,Suits & Sport Coats,12/18/2024,713.44
+1848,Suits & Sport Coats,12/19/2024,229.76
+1849,Suits & Sport Coats,12/20/2024,839.81
+1850,Suits & Sport Coats,12/21/2024,749.53
+1851,Suits & Sport Coats,12/22/2024,700.92
+1852,Suits & Sport Coats,12/23/2024,1018.8
+1853,Suits & Sport Coats,12/24/2024,739.89
+1854,Suits & Sport Coats,12/25/2024,453.75
+1855,Suits & Sport Coats,12/26/2024,1245.45
+1856,Suits & Sport Coats,12/27/2024,1011.7
+1857,Suits & Sport Coats,12/28/2024,618.99
+1858,Suits & Sport Coats,12/29/2024,1134.99
+1859,Suits & Sport Coats,12/30/2024,614.24
+1860,Suits & Sport Coats,12/31/2024,529.82
+1861,Suits & Sport Coats,1/1/2025,514.83
+1862,Suits & Sport Coats,1/2/2025,639.66
+1863,Suits & Sport Coats,1/3/2025,586.96
+1864,Suits & Sport Coats,1/4/2025,738.58
+1865,Suits & Sport Coats,1/5/2025,489.91
+1866,Suits & Sport Coats,1/6/2025,1143.73
+1867,Suits & Sport Coats,1/7/2025,526.84
+1868,Suits & Sport Coats,1/8/2025,984.36
+1869,Suits & Sport Coats,1/9/2025,707.16
+1870,Suits & Sport Coats,1/10/2025,251.5
+1871,Suits & Sport Coats,1/11/2025,1668.12
+1872,Suits & Sport Coats,1/12/2025,1508.27
+1873,Suits & Sport Coats,1/13/2025,1194.15
+1874,Suits & Sport Coats,1/14/2025,1273.01
+1875,Suits & Sport Coats,1/15/2025,1008.61
+1876,Suits & Sport Coats,1/16/2025,420.32
+1877,Suits & Sport Coats,1/17/2025,821.43
+1878,Suits & Sport Coats,1/18/2025,842.12
+1879,Suits & Sport Coats,1/19/2025,972.05
+1880,Suits & Sport Coats,1/20/2025,557.8
+1881,Suits & Sport Coats,1/21/2025,238.96
+1882,Suits & Sport Coats,1/22/2025,469.34
+1883,Suits & Sport Coats,1/23/2025,742.07
+1884,Suits & Sport Coats,1/24/2025,860.18
+1885,Suits & Sport Coats,1/25/2025,706.91
+1886,Suits & Sport Coats,1/26/2025,1273.5
+1887,Suits & Sport Coats,1/27/2025,1004.06
+1888,Suits & Sport Coats,1/28/2025,448.64
+1889,Suits & Sport Coats,1/29/2025,574.89
+1890,Suits & Sport Coats,1/30/2025,15.49
+1891,Suits & Sport Coats,1/31/2025,360.34
+1892,Suits & Sport Coats,2/1/2025,437.81
+1893,Suits & Sport Coats,2/2/2025,749.58
+1894,Suits & Sport Coats,2/3/2025,1307.96
+1895,Suits & Sport Coats,2/4/2025,868.87
+1896,Suits & Sport Coats,2/5/2025,1370.92
+1897,Suits & Sport Coats,2/6/2025,878.42
+1898,Suits & Sport Coats,2/7/2025,851.35
+1899,Suits & Sport Coats,2/8/2025,1262.88
+1900,Suits & Sport Coats,2/9/2025,750.07
+1901,Suits & Sport Coats,2/10/2025,750.21
+1902,Sweaters,11/10/2024,970.65
+1903,Sweaters,11/11/2024,1864.41
+1904,Sweaters,11/12/2024,782.53
+1905,Sweaters,11/13/2024,971.69
+1906,Sweaters,11/14/2024,694.04
+1907,Sweaters,11/15/2024,343.75
+1908,Sweaters,11/16/2024,919.43
+1909,Sweaters,11/17/2024,306.34
+1910,Sweaters,11/18/2024,816.63
+1911,Sweaters,11/19/2024,949.73
+1912,Sweaters,11/20/2024,1657.71
+1913,Sweaters,11/21/2024,1163.53
+1914,Sweaters,11/22/2024,889.63
+1915,Sweaters,11/23/2024,450.95
+1916,Sweaters,11/24/2024,1136.26
+1917,Sweaters,11/25/2024,1020.99
+1918,Sweaters,11/26/2024,959.21
+1919,Sweaters,11/27/2024,1039.16
+1920,Sweaters,11/28/2024,822.55
+1921,Sweaters,11/29/2024,789.69
+1922,Sweaters,11/30/2024,1372.81
+1923,Sweaters,12/1/2024,823.62
+1924,Sweaters,12/2/2024,864.97
+1925,Sweaters,12/3/2024,931.59
+1926,Sweaters,12/4/2024,950.42
+1927,Sweaters,12/5/2024,710.36
+1928,Sweaters,12/6/2024,1028.06
+1929,Sweaters,12/7/2024,1078.83
+1930,Sweaters,12/8/2024,963.7
+1931,Sweaters,12/9/2024,1361.65
+1932,Sweaters,12/10/2024,842.08
+1933,Sweaters,12/11/2024,751.8
+1934,Sweaters,12/12/2024,822.11
+1935,Sweaters,12/13/2024,943.5
+1936,Sweaters,12/14/2024,920.84
+1937,Sweaters,12/15/2024,1022.57
+1938,Sweaters,12/16/2024,200.2
+1939,Sweaters,12/17/2024,1495.66
+1940,Sweaters,12/18/2024,1181.33
+1941,Sweaters,12/19/2024,822.92
+1942,Sweaters,12/20/2024,579.84
+1943,Sweaters,12/21/2024,1269.99
+1944,Sweaters,12/22/2024,920.3
+1945,Sweaters,12/23/2024,773.38
+1946,Sweaters,12/24/2024,551.99
+1947,Sweaters,12/25/2024,720.97
+1948,Sweaters,12/26/2024,1006.93
+1949,Sweaters,12/27/2024,838.6
+1950,Sweaters,12/28/2024,1343.83
+1951,Sweaters,12/29/2024,1142.11
+1952,Sweaters,12/30/2024,1674.22
+1953,Sweaters,12/31/2024,1027.96
+1954,Sweaters,1/1/2025,1096.84
+1955,Sweaters,1/2/2025,1859.78
+1956,Sweaters,1/3/2025,954.53
+1957,Sweaters,1/4/2025,1824.95
+1958,Sweaters,1/5/2025,1259.07
+1959,Sweaters,1/6/2025,1008.71
+1960,Sweaters,1/7/2025,506.27
+1961,Sweaters,1/8/2025,695.62
+1962,Sweaters,1/9/2025,1260.15
+1963,Sweaters,1/10/2025,817.57
+1964,Sweaters,1/11/2025,1049.99
+1965,Sweaters,1/12/2025,1719.8
+1966,Sweaters,1/13/2025,1358.21
+1967,Sweaters,1/14/2025,517
+1968,Sweaters,1/15/2025,1251.64
+1969,Sweaters,1/16/2025,911.97
+1970,Sweaters,1/17/2025,1810.41
+1971,Sweaters,1/18/2025,829.5
+1972,Sweaters,1/19/2025,1241.86
+1973,Sweaters,1/20/2025,1008.19
+1974,Sweaters,1/21/2025,1202.33
+1975,Sweaters,1/22/2025,832.3
+1976,Sweaters,1/23/2025,1067.9
+1977,Sweaters,1/24/2025,1134.73
+1978,Sweaters,1/25/2025,1231.55
+1979,Sweaters,1/26/2025,1622.78
+1980,Sweaters,1/27/2025,935.3
+1981,Sweaters,1/28/2025,1384.51
+1982,Sweaters,1/29/2025,485.6
+1983,Sweaters,1/30/2025,1284.3
+1984,Sweaters,1/31/2025,680.21
+1985,Sweaters,2/1/2025,938.57
+1986,Sweaters,2/2/2025,1849.14
+1987,Sweaters,2/3/2025,1176.11
+1988,Sweaters,2/4/2025,1375.55
+1989,Sweaters,2/5/2025,1335.77
+1990,Sweaters,2/6/2025,1346.93
+1991,Sweaters,2/7/2025,425.54
+1992,Sweaters,2/8/2025,1440.8
+1993,Sweaters,2/9/2025,455.57
+1994,Sweaters,2/10/2025,1370.34
+1995,Swim,11/10/2024,716.65
+1996,Swim,11/11/2024,729.59
+1997,Swim,11/12/2024,641.84
+1998,Swim,11/13/2024,686.98
+1999,Swim,11/14/2024,692.57
+2000,Swim,11/15/2024,368.47
+2001,Swim,11/16/2024,1090.44
+2002,Swim,11/17/2024,737.02
+2003,Swim,11/18/2024,1174.45
+2004,Swim,11/19/2024,798.99
+2005,Swim,11/20/2024,932.62
+2006,Swim,11/21/2024,450.45
+2007,Swim,11/22/2024,658.45
+2008,Swim,11/23/2024,1292.12
+2009,Swim,11/24/2024,302.36
+2010,Swim,11/25/2024,653.87
+2011,Swim,11/26/2024,1269.39
+2012,Swim,11/27/2024,447.85
+2013,Swim,11/28/2024,535.81
+2014,Swim,11/29/2024,697.92
+2015,Swim,11/30/2024,1093.31
+2016,Swim,12/1/2024,842.08
+2017,Swim,12/2/2024,552.73
+2018,Swim,12/3/2024,752.68
+2019,Swim,12/4/2024,789.05
+2020,Swim,12/5/2024,512.39
+2021,Swim,12/6/2024,1237.04
+2022,Swim,12/7/2024,1004.15
+2023,Swim,12/8/2024,511.38
+2024,Swim,12/9/2024,588.88
+2025,Swim,12/10/2024,689.02
+2026,Swim,12/11/2024,699.21
+2027,Swim,12/12/2024,332.93
+2028,Swim,12/13/2024,438.66
+2029,Swim,12/14/2024,585.89
+2030,Swim,12/15/2024,631.32
+2031,Swim,12/16/2024,1109.23
+2032,Swim,12/17/2024,576.43
+2033,Swim,12/18/2024,925.9
+2034,Swim,12/19/2024,442.88
+2035,Swim,12/20/2024,675.09
+2036,Swim,12/21/2024,1176.47
+2037,Swim,12/22/2024,821.63
+2038,Swim,12/23/2024,577.84
+2039,Swim,12/24/2024,611.42
+2040,Swim,12/25/2024,690.64
+2041,Swim,12/26/2024,628.19
+2042,Swim,12/27/2024,729.64
+2043,Swim,12/28/2024,901.93
+2044,Swim,12/29/2024,647.63
+2045,Swim,12/30/2024,1069.65
+2046,Swim,12/31/2024,551.55
+2047,Swim,1/1/2025,697.9
+2048,Swim,1/2/2025,346.36
+2049,Swim,1/3/2025,980.95
+2050,Swim,1/4/2025,634.3
+2051,Swim,1/5/2025,701.93
+2052,Swim,1/6/2025,510.07
+2053,Swim,1/7/2025,385.44
+2054,Swim,1/8/2025,758.68
+2055,Swim,1/9/2025,730.85
+2056,Swim,1/10/2025,616.11
+2057,Swim,1/11/2025,640.39
+2058,Swim,1/12/2025,813.32
+2059,Swim,1/13/2025,651.22
+2060,Swim,1/14/2025,531.45
+2061,Swim,1/15/2025,841.61
+2062,Swim,1/16/2025,924.46
+2063,Swim,1/17/2025,598.17
+2064,Swim,1/18/2025,1212.06
+2065,Swim,1/19/2025,962.37
+2066,Swim,1/20/2025,324.38
+2067,Swim,1/21/2025,844.71
+2068,Swim,1/22/2025,1031.07
+2069,Swim,1/23/2025,654.7
+2070,Swim,1/24/2025,1110.14
+2071,Swim,1/25/2025,1123.95
+2072,Swim,1/26/2025,589.9
+2073,Swim,1/27/2025,852.56
+2074,Swim,1/28/2025,1108.23
+2075,Swim,1/29/2025,669.79
+2076,Swim,1/30/2025,855.35
+2077,Swim,1/31/2025,1292.74
+2078,Swim,2/1/2025,795.31
+2079,Swim,2/2/2025,914.41
+2080,Swim,2/3/2025,1130.43
+2081,Swim,2/4/2025,1201.58
+2082,Swim,2/5/2025,687
+2083,Swim,2/6/2025,914.1
+2084,Swim,2/7/2025,712.31
+2085,Swim,2/8/2025,1194.05
+2086,Swim,2/9/2025,898.51
+2087,Swim,2/10/2025,555.63
+2088,Tops & Tees,11/10/2024,404.82
+2089,Tops & Tees,11/11/2024,678.88
+2090,Tops & Tees,11/12/2024,1066.29
+2091,Tops & Tees,11/13/2024,330.8
+2092,Tops & Tees,11/14/2024,517.8
+2093,Tops & Tees,11/15/2024,776.33
+2094,Tops & Tees,11/16/2024,713.77
+2095,Tops & Tees,11/17/2024,541.37
+2096,Tops & Tees,11/18/2024,536.08
+2097,Tops & Tees,11/19/2024,491.38
+2098,Tops & Tees,11/20/2024,536.01
+2099,Tops & Tees,11/21/2024,337.97
+2100,Tops & Tees,11/22/2024,567.71
+2101,Tops & Tees,11/23/2024,702.76
+2102,Tops & Tees,11/24/2024,1137.47
+2103,Tops & Tees,11/25/2024,460.02
+2104,Tops & Tees,11/26/2024,667.34
+2105,Tops & Tees,11/27/2024,519.64
+2106,Tops & Tees,11/28/2024,530.41
+2107,Tops & Tees,11/29/2024,1273.28
+2108,Tops & Tees,11/30/2024,644.6
+2109,Tops & Tees,12/1/2024,274.39
+2110,Tops & Tees,12/2/2024,669.87
+2111,Tops & Tees,12/3/2024,931.33
+2112,Tops & Tees,12/4/2024,1003.39
+2113,Tops & Tees,12/5/2024,429.37
+2114,Tops & Tees,12/6/2024,831.87
+2115,Tops & Tees,12/7/2024,558.97
+2116,Tops & Tees,12/8/2024,645.84
+2117,Tops & Tees,12/9/2024,677.54
+2118,Tops & Tees,12/10/2024,518.16
+2119,Tops & Tees,12/11/2024,878.61
+2120,Tops & Tees,12/12/2024,621.56
+2121,Tops & Tees,12/13/2024,765.31
+2122,Tops & Tees,12/14/2024,308.89
+2123,Tops & Tees,12/15/2024,922.2
+2124,Tops & Tees,12/16/2024,269.13
+2125,Tops & Tees,12/17/2024,497.45
+2126,Tops & Tees,12/18/2024,356.75
+2127,Tops & Tees,12/19/2024,296.47
+2128,Tops & Tees,12/20/2024,580.72
+2129,Tops & Tees,12/21/2024,475.97
+2130,Tops & Tees,12/22/2024,356.29
+2131,Tops & Tees,12/23/2024,794.57
+2132,Tops & Tees,12/24/2024,759.52
+2133,Tops & Tees,12/25/2024,378.12
+2134,Tops & Tees,12/26/2024,415.61
+2135,Tops & Tees,12/27/2024,826.28
+2136,Tops & Tees,12/28/2024,890.7
+2137,Tops & Tees,12/29/2024,841.89
+2138,Tops & Tees,12/30/2024,288.56
+2139,Tops & Tees,12/31/2024,470.08
+2140,Tops & Tees,1/1/2025,481.63
+2141,Tops & Tees,1/2/2025,352.04
+2142,Tops & Tees,1/3/2025,823.96
+2143,Tops & Tees,1/4/2025,683.39
+2144,Tops & Tees,1/5/2025,867.44
+2145,Tops & Tees,1/6/2025,991.42
+2146,Tops & Tees,1/7/2025,941.14
+2147,Tops & Tees,1/8/2025,609.88
+2148,Tops & Tees,1/9/2025,789.39
+2149,Tops & Tees,1/10/2025,671.43
+2150,Tops & Tees,1/11/2025,531.77
+2151,Tops & Tees,1/12/2025,674.74
+2152,Tops & Tees,1/13/2025,273.43
+2153,Tops & Tees,1/14/2025,386.85
+2154,Tops & Tees,1/15/2025,614.65
+2155,Tops & Tees,1/16/2025,1034.32
+2156,Tops & Tees,1/17/2025,609.63
+2157,Tops & Tees,1/18/2025,693.37
+2158,Tops & Tees,1/19/2025,629.59
+2159,Tops & Tees,1/20/2025,890.57
+2160,Tops & Tees,1/21/2025,549.25
+2161,Tops & Tees,1/22/2025,591.93
+2162,Tops & Tees,1/23/2025,308.1
+2163,Tops & Tees,1/24/2025,1291.76
+2164,Tops & Tees,1/25/2025,554.74
+2165,Tops & Tees,1/26/2025,467.87
+2166,Tops & Tees,1/27/2025,475.26
+2167,Tops & Tees,1/28/2025,503.15
+2168,Tops & Tees,1/29/2025,571.28
+2169,Tops & Tees,1/30/2025,1239.39
+2170,Tops & Tees,1/31/2025,565.66
+2171,Tops & Tees,2/1/2025,877.12
+2172,Tops & Tees,2/2/2025,910.09
+2173,Tops & Tees,2/3/2025,590.55
+2174,Tops & Tees,2/4/2025,713.18
+2175,Tops & Tees,2/5/2025,1136.62
+2176,Tops & Tees,2/6/2025,651.01
+2177,Tops & Tees,2/7/2025,414.48
+2178,Tops & Tees,2/8/2025,698.92
+2179,Tops & Tees,2/9/2025,432.05
+2180,Tops & Tees,2/10/2025,585.01
+2181,Underwear,11/10/2024,173.52
+2182,Underwear,11/11/2024,109.9
+2183,Underwear,11/12/2024,121
+2184,Underwear,11/13/2024,63.35
+2185,Underwear,11/14/2024,78
+2186,Underwear,11/15/2024,283.9
+2187,Underwear,11/16/2024,174.79
+2188,Underwear,11/17/2024,83.96
+2189,Underwear,11/18/2024,116.84
+2190,Underwear,11/19/2024,165.44
+2191,Underwear,11/20/2024,155.03
+2192,Underwear,11/21/2024,376.71
+2193,Underwear,11/22/2024,76.47
+2194,Underwear,11/23/2024,187.84
+2195,Underwear,11/24/2024,197.49
+2196,Underwear,11/25/2024,161.34
+2197,Underwear,11/26/2024,110.19
+2198,Underwear,11/27/2024,341.2
+2199,Underwear,11/28/2024,127.67
+2200,Underwear,11/29/2024,166.4
+2201,Underwear,11/30/2024,189.25
+2202,Underwear,12/1/2024,298.78
+2203,Underwear,12/2/2024,373.63
+2204,Underwear,12/3/2024,200.24
+2205,Underwear,12/4/2024,429.29
+2206,Underwear,12/5/2024,149.42
+2207,Underwear,12/6/2024,587.93
+2208,Underwear,12/7/2024,286.56
+2209,Underwear,12/8/2024,259.1
+2210,Underwear,12/9/2024,212.75
+2211,Underwear,12/10/2024,219.43
+2212,Underwear,12/11/2024,175.81
+2213,Underwear,12/12/2024,252.44
+2214,Underwear,12/13/2024,125.71
+2215,Underwear,12/14/2024,471.1
+2216,Underwear,12/15/2024,180.4
+2217,Underwear,12/16/2024,268.99
+2218,Underwear,12/17/2024,174.39
+2219,Underwear,12/18/2024,323.41
+2220,Underwear,12/19/2024,227.99
+2221,Underwear,12/20/2024,230.32
+2222,Underwear,12/21/2024,202.78
+2223,Underwear,12/22/2024,191.99
+2224,Underwear,12/23/2024,185.2
+2225,Underwear,12/24/2024,86
+2226,Underwear,12/25/2024,244.35
+2227,Underwear,12/26/2024,350.44
+2228,Underwear,12/27/2024,184.58
+2229,Underwear,12/28/2024,147.53
+2230,Underwear,12/29/2024,284.25
+2231,Underwear,12/30/2024,240.49
+2232,Underwear,12/31/2024,252.74
+2233,Underwear,1/1/2025,232.61
+2234,Underwear,1/2/2025,104.79
+2235,Underwear,1/3/2025,114.49
+2236,Underwear,1/4/2025,382.23
+2237,Underwear,1/5/2025,201.9
+2238,Underwear,1/6/2025,168.5
+2239,Underwear,1/7/2025,152.65
+2240,Underwear,1/8/2025,530.23
+2241,Underwear,1/9/2025,276.78
+2242,Underwear,1/10/2025,225.39
+2243,Underwear,1/11/2025,216.21
+2244,Underwear,1/12/2025,294.31
+2245,Underwear,1/13/2025,276.45
+2246,Underwear,1/14/2025,307.42
+2247,Underwear,1/15/2025,226.59
+2248,Underwear,1/16/2025,306.58
+2249,Underwear,1/17/2025,179.75
+2250,Underwear,1/18/2025,261.44
+2251,Underwear,1/19/2025,230.46
+2252,Underwear,1/20/2025,189.48
+2253,Underwear,1/21/2025,364.18
+2254,Underwear,1/22/2025,176.95
+2255,Underwear,1/23/2025,217.89
+2256,Underwear,1/24/2025,242.46
+2257,Underwear,1/25/2025,144.49
+2258,Underwear,1/26/2025,298.32
+2259,Underwear,1/27/2025,176.53
+2260,Underwear,1/28/2025,176.57
+2261,Underwear,1/29/2025,103.76
+2262,Underwear,1/30/2025,395.19
+2263,Underwear,1/31/2025,70
+2264,Underwear,2/1/2025,234.45
+2265,Underwear,2/2/2025,501.63
+2266,Underwear,2/3/2025,138.45
+2267,Underwear,2/4/2025,207.17
+2268,Underwear,2/5/2025,440.92
+2269,Underwear,2/6/2025,232.88
+2270,Underwear,2/7/2025,182.75
+2271,Underwear,2/8/2025,356.84
+2272,Underwear,2/9/2025,421.57
+2273,Underwear,2/10/2025,248.7
